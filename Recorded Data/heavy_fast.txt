@@ -1,0 +1,2890 @@
+dd20bf1b.0a370479 /CurlingVR/data/sensorValues d 15.146717
+dd20bf1b.0a529bae /CurlingVR/data/rawSensorValues s "   721"
+dd20bf1b.0a67f90d /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0a86f8ad /CurlingVR/data/sensorValues d 20.929903
+dd20bf1b.0a950fc7 /CurlingVR/data/rawSensorValues s "   769"
+dd20bf1b.0abaf102 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0ad2dcb1 /CurlingVR/data/sensorValues d 42.693792
+dd20bf1b.0af049a9 /CurlingVR/data/rawSensorValues s "   937"
+dd20bf1b.0b04577d /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0b1c10d7 /CurlingVR/data/sensorValues d 57.884723
+dd20bf1b.0b38c543 /CurlingVR/data/rawSensorValues s "   895"
+dd20bf1b.0b5c0767 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0b7739f3 /CurlingVR/data/sensorValues d 73.242958
+dd20bf1b.0b8c5436 /CurlingVR/data/rawSensorValues s "   914"
+dd20bf1b.0b9e492b /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0bba12b5 /CurlingVR/data/sensorValues d 86.160903
+dd20bf1b.0be718a8 /CurlingVR/data/rawSensorValues s "   907"
+dd20bf1b.0c012dfd /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0c1b5419 /CurlingVR/data/sensorValues d 93.228630
+dd20bf1b.0c37d630 /CurlingVR/data/rawSensorValues s "   863"
+dd20bf1b.0c4c0592 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.0c664d3b /CurlingVR/data/sensorValues d 94.581747
+dd20bf1b.0c86ad2d /CurlingVR/data/rawSensorValues s "   814"
+dd20bf1b.0c9f0e4d /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.24664d3b /CurlingVR/data/sensorValues d 95.692792
+dd20bf1b.247075b3 /CurlingVR/data/rawSensorValues s "   814"
+dd20bf1b.24982cb1 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.24a15981 /CurlingVR/data/sensorValues d 93.914040
+dd20bf1b.24c6822f /CurlingVR/data/rawSensorValues s "   787"
+dd20bf1b.24d477bb /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.24f45175 /CurlingVR/data/sensorValues d 90.156259
+dd20bf1b.2503968d /CurlingVR/data/rawSensorValues s "   766"
+dd20bf1b.25246bef /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.2534bd76 /CurlingVR/data/sensorValues d 86.717919
+dd20bf1b.254e5d5a /CurlingVR/data/rawSensorValues s "   766"
+dd20bf1b.2566490a /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.25802c0a /CurlingVR/data/sensorValues d 80.498640
+dd20bf1b.25cc20d5 /CurlingVR/data/rawSensorValues s "   735"
+dd20bf1b.25e060fe /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.260f2bec /CurlingVR/data/sensorValues d 72.203764
+dd20bf1b.263f4666 /CurlingVR/data/rawSensorValues s "   708"
+dd20bf1b.2650e778 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.266f0cfd /CurlingVR/data/sensorValues d 63.354826
+dd20bf1b.2680e065 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf1b.26a19439 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.3e9856a3 /CurlingVR/data/sensorValues d 54.615067
+dd20bf1b.3ea76965 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf1b.3ec6ac21 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.3ed794a6 /CurlingVR/data/sensorValues d 46.080327
+dd20bf1b.3eecbfb1 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1b.3f1a3b14 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.3f1c0010 /CurlingVR/data/sensorValues d 38.429794
+dd20bf1b.3f3edd8b /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1b.3f5d67b9 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.3f677f6a /CurlingVR/data/sensorValues d 31.079738
+dd20bf1b.3f8f68bd /CurlingVR/data/rawSensorValues s "   674"
+dd20bf1b.3f966be7 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.3fc80841 /CurlingVR/data/sensorValues d 24.697759
+dd20bf1b.3fc9bc76 /CurlingVR/data/rawSensorValues s "   676"
+dd20bf1b.3ff2b239 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.40142f61 /CurlingVR/data/sensorValues d 19.184718
+dd20bf1b.402656ab /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1b.404bd33c /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.404d9839 /CurlingVR/data/sensorValues d 14.253414
+dd20bf1b.40925785 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1b.4093ea2c /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.40c14402 /CurlingVR/data/sensorValues d 12.023368
+dd20bf1b.40c8040f /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.40e76859 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.58be4041 /CurlingVR/data/sensorValues d 12.004374
+dd20bf1b.590b630a /CurlingVR/data/rawSensorValues s "   720"
+dd20bf1b.591eb851 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.59385835 /CurlingVR/data/sensorValues d 13.262446
+dd20bf1b.594ec204 /CurlingVR/data/rawSensorValues s "   733"
+dd20bf1b.596a4872 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.597eed45 /CurlingVR/data/sensorValues d 15.261126
+dd20bf1b.5999029a /CurlingVR/data/rawSensorValues s "   742"
+dd20bf1b.59aea315 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.59c53f39 /CurlingVR/data/sensorValues d 17.422688
+dd20bf1b.59e225fa /CurlingVR/data/rawSensorValues s "   746"
+dd20bf1b.59f2a9d5 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.5a08f216 /CurlingVR/data/sensorValues d 42.398218
+dd20bf1b.5a243569 /CurlingVR/data/rawSensorValues s "   979"
+dd20bf1b.5a396073 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.5a581cf7 /CurlingVR/data/sensorValues d 54.115016
+dd20bf1b.5a6defc7 /CurlingVR/data/rawSensorValues s "   873"
+dd20bf1b.5a83d35e /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.5aa10e01 /CurlingVR/data/sensorValues d 64.104569
+dd20bf1b.5ab81f96 /CurlingVR/data/rawSensorValues s "   869"
+dd20bf1b.5ad2dcb0 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.5aec6bce /CurlingVR/data/sensorValues d 70.466155
+dd20bf1b.5b03e20c /CurlingVR/data/rawSensorValues s "   844"
+dd20bf1b.5b1bde82 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.73020c49 /CurlingVR/data/sensorValues d 70.717863
+dd20bf1b.73051009 /CurlingVR/data/rawSensorValues s "   790"
+dd20bf1b.7319e731 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.73410730 /CurlingVR/data/sensorValues d 70.871416
+dd20bf1b.734f82f4 /CurlingVR/data/rawSensorValues s "   790"
+dd20bf1b.736aa4b9 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.73a871a3 /CurlingVR/data/sensorValues d 70.937361
+dd20bf1b.73a9c12e /CurlingVR/data/rawSensorValues s "   790"
+dd20bf1b.73c4d22c /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.73da836e /CurlingVR/data/sensorValues d 67.460181
+dd20bf1b.740e0652 /CurlingVR/data/rawSensorValues s "   755"
+dd20bf1b.741eff9f /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.743efae7 /CurlingVR/data/sensorValues d 63.601553
+dd20bf1b.7457f305 /CurlingVR/data/rawSensorValues s "   748"
+dd20bf1b.7469e7fa /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.74aa64c2 /CurlingVR/data/sensorValues d 58.614914
+dd20bf1b.74abe6a2 /CurlingVR/data/rawSensorValues s "   733"
+dd20bf1b.74d466f4 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.74fe79ed /CurlingVR/data/sensorValues d 50.846203
+dd20bf1b.750eed02 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.7534bd76 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8d2ed783 /CurlingVR/data/sensorValues d 43.477436
+dd20bf1b.8d306a2a /CurlingVR/data/rawSensorValues s "   696"
+dd20bf1b.8d4cb9ec /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8d5f2452 /CurlingVR/data/sensorValues d 35.977387
+dd20bf1b.8d7cb2d8 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1b.8d873ffa /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8daccd52 /CurlingVR/data/sensorValues d 28.664866
+dd20bf1b.8dbc44be /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1b.8ddb9841 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8deb6390 /CurlingVR/data/sensorValues d 21.625745
+dd20bf1b.8e096787 /CurlingVR/data/rawSensorValues s "   676"
+dd20bf1b.8e1bf37a /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8e358298 /CurlingVR/data/sensorValues d 14.837263
+dd20bf1b.8e540cc7 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf1b.8e6bc621 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8e7ec785 /CurlingVR/data/sensorValues d 9.862887
+dd20bf1b.8eb723ed /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1b.8eb89506 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8ee58a32 /CurlingVR/data/sensorValues d 6.311856
+dd20bf1b.8ee71cd9 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1b.8f152f3b /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.8f3f9617 /CurlingVR/data/sensorValues d 3.933575
+dd20bf1b.8f47c73e /CurlingVR/data/rawSensorValues s "   699"
+dd20bf1b.8f7292c4 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a761565b /CurlingVR/data/sensorValues d 3.196594
+dd20bf1b.a7631b57 /CurlingVR/data/rawSensorValues s "   713"
+dd20bf1b.a78a6dac /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a792c060 /CurlingVR/data/sensorValues d 7.486746
+dd20bf1b.a7bacb41 /CurlingVR/data/rawSensorValues s "   763"
+dd20bf1b.a7bc5de9 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a7ea3df6 /CurlingVR/data/sensorValues d 13.875786
+dd20bf1b.a7ec02f2 /CurlingVR/data/rawSensorValues s "   789"
+dd20bf1b.a8113c67 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a8197e55 /CurlingVR/data/sensorValues d 16.188544
+dd20bf1b.a84406bf /CurlingVR/data/rawSensorValues s "   755"
+dd20bf1b.a84aa53f /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a86df82a /CurlingVR/data/sensorValues d 18.530023
+dd20bf1b.a8766c6d /CurlingVR/data/rawSensorValues s "   758"
+dd20bf1b.a89fa54b /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a8b60f1a /CurlingVR/data/sensorValues d 20.597751
+dd20bf1b.a8c996b6 /CurlingVR/data/rawSensorValues s "   758"
+dd20bf1b.a8de3b89 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a90df159 /CurlingVR/data/sensorValues d 24.498498
+dd20bf1b.a91e2152 /CurlingVR/data/rawSensorValues s "   779"
+dd20bf1b.a9327242 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.a94d1e96 /CurlingVR/data/sensorValues d 32.701566
+dd20bf1b.a95e7c8c /CurlingVR/data/rawSensorValues s "   827"
+dd20bf1b.a97d49d7 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c17d9db9 /CurlingVR/data/sensorValues d 38.294798
+dd20bf1b.c194f26a /CurlingVR/data/rawSensorValues s "   810"
+dd20bf1b.c1a975ae /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c1d29dc6 /CurlingVR/data/sensorValues d 43.240073
+dd20bf1b.c1e14bdf /CurlingVR/data/rawSensorValues s "   810"
+dd20bf1b.c20a41a1 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c20c069d /CurlingVR/data/sensorValues d 41.762072
+dd20bf1b.c23369b9 /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1b.c24399b2 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c2598e10 /CurlingVR/data/sensorValues d 40.403412
+dd20bf1b.c26cf41e /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1b.c28c5867 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c2b90a77 /CurlingVR/data/sensorValues d 39.152442
+dd20bf1b.c2bebe15 /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1b.c2f0bf19 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c310dbef /CurlingVR/data/sensorValues d 37.998676
+dd20bf1b.c3262887 /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1b.c344f5d2 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.c35daad5 /CurlingVR/data/sensorValues d 36.932671
+dd20bf1b.c379a6b4 /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1b.c398958c /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.dbac81d2 /CurlingVR/data/sensorValues d 35.945928
+dd20bf1b.dbb4a232 /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1b.dbdc054e /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.dbef8cea /CurlingVR/data/sensorValues d 29.981795
+dd20bf1b.dc43e531 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.dc548a9a /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.dc68986e /CurlingVR/data/sensorValues d 24.637770
+dd20bf1b.dc91d14d /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.dc9edbf7 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.dcb75ea5 /CurlingVR/data/sensorValues d 19.851606
+dd20bf1b.dccc89b0 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.dce24bb9 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.dcf637ff /CurlingVR/data/sensorValues d 15.567282
+dd20bf1b.dd1ed9de /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.dd389b51 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.dd4face5 /CurlingVR/data/sensorValues d 11.734382
+dd20bf1b.dd86b9c2 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1b.dd884c69 /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.ddb23dd4 /CurlingVR/data/sensorValues d 5.733534
+dd20bf1b.ddc4a83a /CurlingVR/data/rawSensorValues s "   674"
+dd20bf1b.dddd3bae /CurlingVR/data/frequencyValue d 1.538889
+dd20bf1b.ddf212d6 /CurlingVR/data/sensorValues d 1.866045
+dd20bf1b.de08aefa /CurlingVR/data/rawSensorValues s "   689"
+dd20bf1b.de8ed5f0 /CurlingVR/data/frequencyValue d 0.687797
+dd20bf1b.f5e84f08 /CurlingVR/data/sensorValues d -1.383754
+dd20bf1b.f5ef30a3 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1b.f61af7d2 /CurlingVR/data/frequencyValue d 0.687797
+dd20bf1b.f61cbcce /CurlingVR/data/sensorValues d -4.277941
+dd20bf1b.f6437823 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1b.f6452c59 /CurlingVR/data/frequencyValue d 0.687797
+dd20bf1b.f678af3d /CurlingVR/data/sensorValues d -6.852384
+dd20bf1b.f6bfca84 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1b.f6c7431f /CurlingVR/data/frequencyValue d 0.687797
+dd20bf1b.f6f1bac1 /CurlingVR/data/sensorValues d -6.565360
+dd20bf1b.f70520d0 /CurlingVR/data/rawSensorValues s "   717"
+dd20bf1b.f7251c18 /CurlingVR/data/frequencyValue d 0.687797
+dd20bf1b.f7395c41 /CurlingVR/data/sensorValues d -3.927056
+dd20bf1b.f75568e7 /CurlingVR/data/rawSensorValues s "   741"
+dd20bf1b.f77c99ad /CurlingVR/data/frequencyValue d 0.687797
+dd20bf1b.f77e5ea9 /CurlingVR/data/sensorValues d 5.951600
+dd20bf1b.f7a9e2bc /CurlingVR/data/rawSensorValues s "   817"
+dd20bf1b.f7ab7563 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1b.f7d523b2 /CurlingVR/data/sensorValues d 10.985530
+dd20bf1b.f7e76c8a /CurlingVR/data/rawSensorValues s "   779"
+dd20bf1b.f7fef38f /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1b.f824a275 /CurlingVR/data/sensorValues d 12.192777
+dd20bf1b.f8266771 /CurlingVR/data/rawSensorValues s "   746"
+dd20bf1b.f852d665 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.10142f61 /CurlingVR/data/sensorValues d 13.949241
+dd20bf1c.1033f855 /CurlingVR/data/rawSensorValues s "   753"
+dd20bf1c.1048e043 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.10c07aae /CurlingVR/data/rawSensorValues s "   753"
+dd20bf1c.10d03537 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.10e65be9 /CurlingVR/data/sensorValues d 16.866795
+dd20bf1c.1102363b /CurlingVR/data/rawSensorValues s "   753"
+dd20bf1c.1126a65c /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.113b6cbd /CurlingVR/data/sensorValues d 26.581475
+dd20bf1c.115d0b73 /CurlingVR/data/rawSensorValues s "   839"
+dd20bf1c.1164f97e /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.1192641b /CurlingVR/data/sensorValues d 32.735673
+dd20bf1c.119a9542 /CurlingVR/data/rawSensorValues s "   814"
+dd20bf1c.11bccaf6 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.11c58255 /CurlingVR/data/sensorValues d 35.909328
+dd20bf1c.2a3bddfc /CurlingVR/data/rawSensorValues s "   791"
+dd20bf1c.2a4e7ab7 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2a62fdfb /CurlingVR/data/sensorValues d 36.028145
+dd20bf1c.2a76ea41 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1c.2a99b6f5 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2aa9717d /CurlingVR/data/sensorValues d 36.097982
+dd20bf1c.2acd39d9 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1c.2adc6e2a /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2b12a0ec /CurlingVR/data/sensorValues d 34.342110
+dd20bf1c.2b268d32 /CurlingVR/data/rawSensorValues s "   746"
+dd20bf1c.2b493858 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2b5eb745 /CurlingVR/data/sensorValues d 32.149286
+dd20bf1c.2b820a30 /CurlingVR/data/rawSensorValues s "   740"
+dd20bf1c.2b92e1ef /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2bb97bb7 /CurlingVR/data/sensorValues d 28.480330
+dd20bf1c.2bce746c /CurlingVR/data/rawSensorValues s "   723"
+dd20bf1c.2bfe8ee6 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2c1a5870 /CurlingVR/data/sensorValues d 23.301810
+dd20bf1c.2c2bd7f4 /CurlingVR/data/rawSensorValues s "   704"
+dd20bf1c.2c46a5d6 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2c5ea24c /CurlingVR/data/sensorValues d 18.664447
+dd20bf1c.2c78fabd /CurlingVR/data/rawSensorValues s "   704"
+dd20bf1c.2c9afe1d /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2c9c4da8 /CurlingVR/data/sensorValues d 14.513892
+dd20bf1c.2cbd4499 /CurlingVR/data/rawSensorValues s "   704"
+dd20bf1c.2cdf15a4 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.2ce0daa0 /CurlingVR/data/sensorValues d 8.524233
+dd20bf1c.2d0b5243 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1c.2d1f4f50 /CurlingVR/data/frequencyValue d 12.432356
+dd20bf1c.446c11a0 /CurlingVR/data/sensorValues d 2.485923
+dd20bf1c.446d9381 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf1c.449abb01 /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.44a137f3 /CurlingVR/data/sensorValues d -3.193697
+dd20bf1c.44c814d6 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf1c.44d9945b /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.44f3a9b0 /CurlingVR/data/sensorValues d -8.251044
+dd20bf1c.45058dde /CurlingVR/data/rawSensorValues s "   671"
+dd20bf1c.452c4933 /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.453458cc /CurlingVR/data/sensorValues d -11.659890
+dd20bf1c.45635610 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1c.4564b662 /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.458a222d /CurlingVR/data/sensorValues d -13.596512
+dd20bf1c.459934ef /CurlingVR/data/rawSensorValues s "   693"
+dd20bf1c.45bdc69f /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.45bf5946 /CurlingVR/data/sensorValues d -15.011445
+dd20bf1c.45f2239e /CurlingVR/data/rawSensorValues s "   696"
+dd20bf1c.4601797c /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.4634dad2 /CurlingVR/data/sensorValues d -13.188140
+dd20bf1c.46429e09 /CurlingVR/data/rawSensorValues s "   727"
+dd20bf1c.4657a786 /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.466a7696 /CurlingVR/data/sensorValues d -8.679386
+dd20bf1c.468fb00b /CurlingVR/data/rawSensorValues s "   756"
+dd20bf1c.4690ff96 /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.5e9ced0a /CurlingVR/data/sensorValues d -4.653407
+dd20bf1c.5e9ed394 /CurlingVR/data/rawSensorValues s "   756"
+dd20bf1c.5ec7eae5 /CurlingVR/data/frequencyValue d 4.167466
+dd20bf1c.5ed30f05 /CurlingVR/data/sensorValues d 2.700393
+dd20bf1c.5f0079a2 /CurlingVR/data/rawSensorValues s "   794"
+dd20bf1c.5f078d92 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.5f2bdc26 /CurlingVR/data/sensorValues d 6.279929
+dd20bf1c.5f3f20a6 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1c.5f625204 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.5f6a93f2 /CurlingVR/data/sensorValues d 9.067016
+dd20bf1c.5f95e5af /CurlingVR/data/rawSensorValues s "   760"
+dd20bf1c.5f9de481 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.5fc59b7f /CurlingVR/data/sensorValues d 24.015243
+dd20bf1c.5fd91255 /CurlingVR/data/rawSensorValues s "   886"
+dd20bf1c.60074644 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.600e38a7 /CurlingVR/data/sensorValues d 42.854098
+dd20bf1c.6036eb4e /CurlingVR/data/rawSensorValues s "   942"
+dd20bf1c.603eea20 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.6061c79a /CurlingVR/data/sensorValues d 52.171664
+dd20bf1c.60746455 /CurlingVR/data/rawSensorValues s "   867"
+dd20bf1c.60972042 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.78c5974d /CurlingVR/data/sensorValues d 57.649443
+dd20bf1c.78d844cf /CurlingVR/data/rawSensorValues s "   839"
+dd20bf1c.7900d5e8 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.79131ec0 /CurlingVR/data/sensorValues d 60.492495
+dd20bf1c.793964a5 /CurlingVR/data/rawSensorValues s "   819"
+dd20bf1c.794b167e /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.79627bf5 /CurlingVR/data/sensorValues d 61.480162
+dd20bf1c.7986338a /CurlingVR/data/rawSensorValues s "   804"
+dd20bf1c.798cd20a /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.79b877aa /CurlingVR/data/sensorValues d 60.219693
+dd20bf1c.79ced0b2 /CurlingVR/data/rawSensorValues s "   783"
+dd20bf1c.79e4c510 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.7a0c8cd5 /CurlingVR/data/sensorValues d 57.749396
+dd20bf1c.7a15a8de /CurlingVR/data/rawSensorValues s "   770"
+dd20bf1c.7a4b44a1 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.7a7a0f90 /CurlingVR/data/sensorValues d 54.104611
+dd20bf1c.7a81450e /CurlingVR/data/rawSensorValues s "   756"
+dd20bf1c.7aab4740 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.7aacfb75 /CurlingVR/data/sensorValues d 48.823004
+dd20bf1c.7ad80a17 /CurlingVR/data/rawSensorValues s "   736"
+dd20bf1c.7ae7c49f /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.7affd1dc /CurlingVR/data/sensorValues d 42.385268
+dd20bf1c.7b1e7d99 /CurlingVR/data/rawSensorValues s "   719"
+dd20bf1c.7b336587 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.930c1333 /CurlingVR/data/sensorValues d 35.121861
+dd20bf1c.930dd82f /CurlingVR/data/rawSensorValues s "   704"
+dd20bf1c.93280f12 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.933cd572 /CurlingVR/data/sensorValues d 27.328043
+dd20bf1c.935b5fa1 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1c.936a619d /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.939713ac /CurlingVR/data/sensorValues d 19.960423
+dd20bf1c.9398c7e1 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1c.93af1022 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.93da2f8b /CurlingVR/data/sensorValues d 12.781913
+dd20bf1c.93e9ea13 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1c.9408c825 /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.941cc532 /CurlingVR/data/sensorValues d 6.175079
+dd20bf1c.945846e8 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1c.9459d98f /CurlingVR/data/frequencyValue d 8.311099
+dd20bf1c.947d6f96 /CurlingVR/data/sensorValues d -0.509785
+dd20bf1c.9488f861 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf1c.94b2745b /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.94b3d4ad /CurlingVR/data/sensorValues d -5.277489
+dd20bf1c.94e35828 /CurlingVR/data/rawSensorValues s "   683"
+dd20bf1c.94efcbd4 /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.951f70dd /CurlingVR/data/sensorValues d -8.926236
+dd20bf1c.9525cc41 /CurlingVR/data/rawSensorValues s "   689"
+dd20bf1c.9541205b /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.ad88f42f /CurlingVR/data/sensorValues d -11.772344
+dd20bf1c.ad8e863f /CurlingVR/data/rawSensorValues s "   693"
+dd20bf1c.adc0db26 /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.adcf0307 /CurlingVR/data/sensorValues d -13.572028
+dd20bf1c.ade5c0b8 /CurlingVR/data/rawSensorValues s "   722"
+dd20bf1c.ae073de1 /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.ae111276 /CurlingVR/data/sensorValues d -10.130202
+dd20bf1c.ae3f359f /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1c.ae40c846 /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.ae6aa8ea /CurlingVR/data/sensorValues d -7.053405
+dd20bf1c.ae6c6de6 /CurlingVR/data/rawSensorValues s "   751"
+dd20bf1c.ae953154 /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.ae96f650 /CurlingVR/data/sensorValues d -3.017925
+dd20bf1c.aec5d206 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1c.aed740c3 /CurlingVR/data/frequencyValue d 3.950172
+dd20bf1c.aefc58aa /CurlingVR/data/sensorValues d 0.580705
+dd20bf1c.af035bd4 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1c.af31098c /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.b1aa6090 /CurlingVR/data/sensorValues d 2.202503
+dd20bf1c.b1d89480 /CurlingVR/data/rawSensorValues s "   748"
+dd20bf1c.b281ba7f /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.b29ab29d /CurlingVR/data/sensorValues d 24.534324
+dd20bf1c.b2b3bb83 /CurlingVR/data/rawSensorValues s "   959"
+dd20bf1c.b2ca686d /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.b2e5abc0 /CurlingVR/data/sensorValues d 43.813441
+dd20bf1c.b2fb2aad /CurlingVR/data/rawSensorValues s "   953"
+dd20bf1c.b31c0010 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.c76eb4e8 /CurlingVR/data/sensorValues d 60.947321
+dd20bf1c.c77dd872 /CurlingVR/data/rawSensorValues s "   953"
+dd20bf1c.c7a5c1c5 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.c7a79788 /CurlingVR/data/sensorValues d 64.173661
+dd20bf1c.c7d59923 /CurlingVR/data/rawSensorValues s "   832"
+dd20bf1c.c7d72bca /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.c802afdc /CurlingVR/data/sensorValues d 65.202157
+dd20bf1c.c8160524 /CurlingVR/data/rawSensorValues s "   814"
+dd20bf1c.c82ababd /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.c8493425 /CurlingVR/data/sensorValues d 64.766344
+dd20bf1c.c85bc019 /CurlingVR/data/rawSensorValues s "   801"
+dd20bf1c.c880d800 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.c887b99c /CurlingVR/data/sensorValues d 62.432268
+dd20bf1c.c8b1dd5c /CurlingVR/data/rawSensorValues s "   782"
+dd20bf1c.c8b838c0 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e189df10 /CurlingVR/data/sensorValues d 59.498174
+dd20bf1c.e19f0a1b /CurlingVR/data/rawSensorValues s "   774"
+dd20bf1c.e1aa92e5 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e1d590bf /CurlingVR/data/sensorValues d 56.824399
+dd20bf1c.e1e7b809 /CurlingVR/data/rawSensorValues s "   774"
+dd20bf1c.e20945f8 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e21554fa /CurlingVR/data/sensorValues d 50.821240
+dd20bf1c.e23c74fa /CurlingVR/data/rawSensorValues s "   738"
+dd20bf1c.e24e7ab6 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e268f4b5 /CurlingVR/data/sensorValues d 43.144605
+dd20bf1c.e27dcbdc /CurlingVR/data/rawSensorValues s "   715"
+dd20bf1c.e2a4334f /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e2aaf35d /CurlingVR/data/sensorValues d 35.469578
+dd20bf1c.e2dd0528 /CurlingVR/data/rawSensorValues s "   707"
+dd20bf1c.e2e392e1 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e30c23f9 /CurlingVR/data/sensorValues d 27.011660
+dd20bf1c.e313165c /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1c.e33fb7a5 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e3416bda /CurlingVR/data/sensorValues d 19.151643
+dd20bf1c.e3648c70 /CurlingVR/data/rawSensorValues s "   688"
+dd20bf1c.e3733a89 /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.e397353a /CurlingVR/data/sensorValues d 12.129216
+dd20bf1c.e3a109cf /CurlingVR/data/rawSensorValues s "   688"
+dd20bf1c.fbb2031b /CurlingVR/data/sensorValues d 6.553104
+dd20bf1c.fbc51547 /CurlingVR/data/rawSensorValues s "   695"
+dd20bf1c.fbed527d /CurlingVR/data/frequencyValue d 8.281871
+dd20bf1c.fbfa2ad2 /CurlingVR/data/sensorValues d 1.578236
+dd20bf1c.fc12f09c /CurlingVR/data/rawSensorValues s "   695"
+dd20bf1c.fc34c1a7 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1c.fc48beb4 /CurlingVR/data/sensorValues d -5.231950
+dd20bf1c.fc5e1c14 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf1c.fc80303b /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1c.fc8eef1a /CurlingVR/data/sensorValues d -11.294594
+dd20bf1c.fcb6b6df /CurlingVR/data/rawSensorValues s "   671"
+dd20bf1c.fcb84987 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1c.fce22a2b /CurlingVR/data/sensorValues d -15.596115
+dd20bf1c.fcf10a98 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1c.fd16659c /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1c.fd286b58 /CurlingVR/data/sensorValues d -19.017174
+dd20bf1c.fd3fc008 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf1c.fd58ea7b /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1c.fd7fd826 /CurlingVR/data/sensorValues d -21.848320
+dd20bf1c.fd81ade9 /CurlingVR/data/rawSensorValues s "   688"
+dd20bf1c.fdac14c5 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1d.162a4db1 /CurlingVR/data/sensorValues d -21.973024
+dd20bf1d.162cfd8e /CurlingVR/data/rawSensorValues s "   712"
+dd20bf1d.162e7f6f /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1d.1630014f /CurlingVR/data/sensorValues d -19.884161
+dd20bf1d.1654c554 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1d.166ba493 /CurlingVR/data/sensorValues d -13.350101
+dd20bf1d.168c692f /CurlingVR/data/rawSensorValues s "   781"
+dd20bf1d.16a8b8f1 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1d.16caeea6 /CurlingVR/data/sensorValues d -7.613902
+dd20bf1d.16e568a4 /CurlingVR/data/rawSensorValues s "   780"
+dd20bf1d.16ff7df9 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1d.1718eb89 /CurlingVR/data/sensorValues d -5.465336
+dd20bf1d.1740e5a3 /CurlingVR/data/rawSensorValues s "   750"
+dd20bf1d.175aa715 /CurlingVR/data/frequencyValue d 4.182255
+dd20bf1d.1772a38b /CurlingVR/data/sensorValues d 1.008502
+dd20bf1d.1786b15f /CurlingVR/data/rawSensorValues s "   796"
+dd20bf1d.179ecf63 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.17bb9496 /CurlingVR/data/sensorValues d 16.477683
+dd20bf1d.17e4bcad /CurlingVR/data/rawSensorValues s "   894"
+dd20bf1d.1800eae1 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.18155d5f /CurlingVR/data/sensorValues d 31.630246
+dd20bf1d.182c1b10 /CurlingVR/data/rawSensorValues s "   908"
+dd20bf1d.1844e0da /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.300a8d21 /CurlingVR/data/sensorValues d 45.000549
+dd20bf1d.301bfbde /CurlingVR/data/rawSensorValues s "   907"
+dd20bf1d.3047b246 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.3056b441 /CurlingVR/data/sensorValues d 53.799489
+dd20bf1d.307cb70a /CurlingVR/data/rawSensorValues s "   876"
+dd20bf1d.3084b5dc /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.30aba387 /CurlingVR/data/sensorValues d 59.605544
+dd20bf1d.30b5dcc6 /CurlingVR/data/rawSensorValues s "   856"
+dd20bf1d.30dc65c6 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.30e34762 /CurlingVR/data/sensorValues d 63.234134
+dd20bf1d.30fe79ed /CurlingVR/data/rawSensorValues s "   841"
+dd20bf1d.3117a461 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.31348b21 /CurlingVR/data/sensorValues d 63.532974
+dd20bf1d.314f26ae /CurlingVR/data/rawSensorValues s "   812"
+dd20bf1d.31695d91 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.31888f85 /CurlingVR/data/sensorValues d 62.052707
+dd20bf1d.319dcb57 /CurlingVR/data/rawSensorValues s "   795"
+dd20bf1d.31b1fab9 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.31d26b72 /CurlingVR/data/sensorValues d 59.285737
+dd20bf1d.31e9c022 /CurlingVR/data/rawSensorValues s "   781"
+dd20bf1d.320663c7 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.321ae70b /CurlingVR/data/sensorValues d 53.989080
+dd20bf1d.3237de93 /CurlingVR/data/rawSensorValues s "   753"
+dd20bf1d.325321e5 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.4a462802 /CurlingVR/data/sensorValues d 45.948770
+dd20bf1d.4a4bdba0 /CurlingVR/data/rawSensorValues s "   720"
+dd20bf1d.4aa7ce0f /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.4abb7739 /CurlingVR/data/sensorValues d 37.451905
+dd20bf1d.4acf7446 /CurlingVR/data/rawSensorValues s "   707"
+dd20bf1d.4b2799a1 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.4b301eab /CurlingVR/data/sensorValues d 28.457747
+dd20bf1d.4b5f0b28 /CurlingVR/data/rawSensorValues s "   693"
+dd20bf1d.4b606b7a /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.4b8bac70 /CurlingVR/data/sensorValues d 19.821493
+dd20bf1d.4bb3e9a6 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1d.4bb549f8 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.4bf10ecb /CurlingVR/data/sensorValues d 11.611771
+dd20bf1d.4c060780 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1d.4c357a35 /CurlingVR/data/frequencyValue d 6.805024
+dd20bf1d.4c370cdc /CurlingVR/data/sensorValues d 3.691296
+dd20bf1d.4c614163 /CurlingVR/data/rawSensorValues s "   676"
+dd20bf1d.4c62a1b5 /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.4c9363f5 /CurlingVR/data/sensorValues d -3.666539
+dd20bf1d.4c94e5d5 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf1d.4cbc05d4 /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.4cbd987c /CurlingVR/data/sensorValues d -10.119703
+dd20bf1d.64728e92 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf1d.6473de1d /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.649df116 /CurlingVR/data/sensorValues d -14.869352
+dd20bf1d.64af3e46 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1d.64c83664 /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.64eebf65 /CurlingVR/data/sensorValues d -18.888420
+dd20bf1d.64f062d3 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf1d.651a005b /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.65228565 /CurlingVR/data/sensorValues d -21.955522
+dd20bf1d.654cec41 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1d.654e5d5a /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.65728a60 /CurlingVR/data/sensorValues d -22.290354
+dd20bf1d.65a500d5 /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.65af4adb /CurlingVR/data/sensorValues d -20.388398
+dd20bf1d.65d249e3 /CurlingVR/data/rawSensorValues s "   737"
+dd20bf1d.65e3b8a1 /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.66063172 /CurlingVR/data/sensorValues d -15.505368
+dd20bf1d.660d349b /CurlingVR/data/rawSensorValues s "   769"
+dd20bf1d.662c98e4 /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.664388eb /CurlingVR/data/sensorValues d -7.971082
+dd20bf1d.665df223 /CurlingVR/data/rawSensorValues s "   801"
+dd20bf1d.7ea5a469 /CurlingVR/data/sensorValues d -4.220063
+dd20bf1d.7eb65a9a /CurlingVR/data/rawSensorValues s "   771"
+dd20bf1d.7ece032d /CurlingVR/data/frequencyValue d 4.691710
+dd20bf1d.7edeca24 /CurlingVR/data/sensorValues d -0.873685
+dd20bf1d.7efe4ffc /CurlingVR/data/rawSensorValues s "   771"
+dd20bf1d.7f3775b7 /CurlingVR/data/sensorValues d 15.077812
+dd20bf1d.7f3eee51 /CurlingVR/data/rawSensorValues s "   902"
+dd20bf1d.7f6c3760 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.7f9dc2f3 /CurlingVR/data/rawSensorValues s "   937"
+dd20bf1d.7f9f559a /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.7fce0fc2 /CurlingVR/data/sensorValues d 47.257249
+dd20bf1d.7fcfd4be /CurlingVR/data/rawSensorValues s "   925"
+dd20bf1d.7ff487fc /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.800c8472 /CurlingVR/data/sensorValues d 56.580398
+dd20bf1d.803621fa /CurlingVR/data/rawSensorValues s "   889"
+dd20bf1d.8037b4a1 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.805d0fa5 /CurlingVR/data/sensorValues d 62.454744
+dd20bf1d.806ae3a3 /CurlingVR/data/rawSensorValues s "   865"
+dd20bf1d.80858ff6 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.80b1dd5c /CurlingVR/data/sensorValues d 64.854331
+dd20bf1d.80b3a258 /CurlingVR/data/rawSensorValues s "   837"
+dd20bf1d.80e91c8e /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.98c5a814 /CurlingVR/data/sensorValues d 62.472510
+dd20bf1d.98c75c49 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf1d.98f0e90b /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.98fbb948 /CurlingVR/data/sensorValues d 60.287834
+dd20bf1d.991f81a4 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf1d.9929ed38 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.994866a0 /CurlingVR/data/sensorValues d 58.281000
+dd20bf1d.99616f86 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf1d.9975afae /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.999e1f39 /CurlingVR/data/sensorValues d 52.573630
+dd20bf1d.999fe435 /CurlingVR/data/rawSensorValues s "   753"
+dd20bf1d.99c3bd58 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.99f04dda /CurlingVR/data/sensorValues d 44.960789
+dd20bf1d.9a1c25cf /CurlingVR/data/rawSensorValues s "   728"
+dd20bf1d.9a25fa64 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.9a4a05dc /CurlingVR/data/sensorValues d 36.548788
+dd20bf1d.9a5fc7e6 /CurlingVR/data/rawSensorValues s "   712"
+dd20bf1d.9a77f6b1 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.9a8b9fdb /CurlingVR/data/sensorValues d 27.532145
+dd20bf1d.9a9f9ce8 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf1d.9ac10949 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.b2f36ef7 /CurlingVR/data/sensorValues d 18.777785
+dd20bf1d.b37d523a /CurlingVR/data/rawSensorValues s "   690"
+dd20bf1d.b39085f3 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.b3b0813b /CurlingVR/data/sensorValues d 10.166872
+dd20bf1d.b3c3e74a /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1d.b3d8be71 /CurlingVR/data/frequencyValue d 6.813935
+dd20bf1d.b3ef2840 /CurlingVR/data/sensorValues d 2.682382
+dd20bf1d.b40431bd /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1d.b429ae4e /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.b4307f23 /CurlingVR/data/sensorValues d -5.077981
+dd20bf1d.b46df82a /CurlingVR/data/rawSensorValues s "   673"
+dd20bf1d.b476d117 /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.b4a05dd8 /CurlingVR/data/sensorValues d -10.601387
+dd20bf1d.b4a222d4 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1d.b4bdba09 /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.b4fbfc64 /CurlingVR/data/sensorValues d -14.324140
+dd20bf1d.b5027956 /CurlingVR/data/rawSensorValues s "   699"
+dd20bf1d.b52806ae /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.b53af74c /CurlingVR/data/sensorValues d -17.527789
+dd20bf1d.b550331d /CurlingVR/data/rawSensorValues s "   700"
+dd20bf1d.b565b20a /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.b58b3f63 /CurlingVR/data/sensorValues d -20.166712
+dd20bf1d.b59e94aa /CurlingVR/data/rawSensorValues s "   702"
+dd20bf1d.b5bd8382 /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.cd278076 /CurlingVR/data/sensorValues d -19.032826
+dd20bf1d.cd36501d /CurlingVR/data/rawSensorValues s "   737"
+dd20bf1d.cd61f5bd /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.cd63bab9 /CurlingVR/data/sensorValues d -15.330501
+dd20bf1d.cd83d78f /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1d.cda9b8ca /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.cdab7dc6 /CurlingVR/data/sensorValues d -9.343398
+dd20bf1d.ce1a3f45 /CurlingVR/data/frequencyValue d 4.688081
+dd20bf1d.ce2ab25a /CurlingVR/data/sensorValues d -1.425547
+dd20bf1d.ce47fdc4 /CurlingVR/data/rawSensorValues s "   817"
+dd20bf1d.ce5ecc3d /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.ce8b3b31 /CurlingVR/data/sensorValues d 1.373685
+dd20bf1d.ce9ab29d /CurlingVR/data/rawSensorValues s "   774"
+dd20bf1d.ceafbc19 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.cecbb7f9 /CurlingVR/data/sensorValues d 2.876426
+dd20bf1d.cef61ed4 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1d.ceff0888 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.cf214f04 /CurlingVR/data/sensorValues d 11.340492
+dd20bf1d.cf2f5557 /CurlingVR/data/rawSensorValues s "   836"
+dd20bf1d.cf504c47 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e76cacd0 /CurlingVR/data/sensorValues d 26.691635
+dd20bf1d.e777e1b8 /CurlingVR/data/rawSensorValues s "   915"
+dd20bf1d.e7992c8b /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e7a72217 /CurlingVR/data/sensorValues d 38.065811
+dd20bf1d.e7bc4d21 /CurlingVR/data/rawSensorValues s "   892"
+dd20bf1d.e7dab5c2 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e7f5c6c0 /CurlingVR/data/sensorValues d 43.905136
+dd20bf1d.e8110a12 /CurlingVR/data/rawSensorValues s "   849"
+dd20bf1d.e83126e8 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e84295a5 /CurlingVR/data/sensorValues d 49.064070
+dd20bf1d.e856f75c /CurlingVR/data/rawSensorValues s "   849"
+dd20bf1d.e86d5064 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e89e12a4 /CurlingVR/data/sensorValues d 48.958616
+dd20bf1d.e8a50506 /CurlingVR/data/rawSensorValues s "   802"
+dd20bf1d.e8cc2506 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e8dc65c6 /CurlingVR/data/sensorValues d 47.330698
+dd20bf1d.e8ef1347 /CurlingVR/data/rawSensorValues s "   787"
+dd20bf1d.e9188f42 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e91f0c33 /CurlingVR/data/sensorValues d 45.832892
+dd20bf1d.e95dc3ff /CurlingVR/data/rawSensorValues s "   787"
+dd20bf1d.e970d62b /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e98548a8 /CurlingVR/data/sensorValues d 44.452514
+dd20bf1d.e9a3d2d7 /CurlingVR/data/rawSensorValues s "   787"
+dd20bf1d.e9b84555 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1d.e9d701d9 /CurlingVR/data/sensorValues d 43.178145
+dd20bf1e.01828805 /CurlingVR/data/rawSensorValues s "   787"
+dd20bf1e.01841aac /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1e.01a4bdba /CurlingVR/data/sensorValues d 34.574503
+dd20bf1e.01bac2df /CurlingVR/data/rawSensorValues s "   712"
+dd20bf1e.01d12cad /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1e.01f3c70c /CurlingVR/data/sensorValues d 26.874085
+dd20bf1e.0206b7aa /CurlingVR/data/rawSensorValues s "   712"
+dd20bf1e.021e7104 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1e.02407464 /CurlingVR/data/sensorValues d 18.699138
+dd20bf1e.0250d6b2 /CurlingVR/data/rawSensorValues s "   699"
+dd20bf1e.026b1e5c /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1e.02812381 /CurlingVR/data/sensorValues d 10.208560
+dd20bf1e.02a7ac81 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1e.02a93f29 /CurlingVR/data/frequencyValue d 8.311939
+dd20bf1e.02d4b274 /CurlingVR/data/sensorValues d 2.039248
+dd20bf1e.02db7281 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1e.02fff36a /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.0306b378 /CurlingVR/data/sensorValues d -4.251649
+dd20bf1e.033300de /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1e.0346ed24 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.037b4a23 /CurlingVR/data/sensorValues d -10.743587
+dd20bf1e.03a7b917 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1e.03f38c54 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1bc2656a /CurlingVR/data/sensorValues d -16.220159
+dd20bf1e.1bc3e74a /CurlingVR/data/rawSensorValues s "   685"
+dd20bf1e.1be9fada /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1c00fba8 /CurlingVR/data/sensorValues d -20.291566
+dd20bf1e.1c18f81e /CurlingVR/data/rawSensorValues s "   693"
+dd20bf1e.1c2aed13 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1c595358 /CurlingVR/data/sensorValues d -24.096897
+dd20bf1e.1c5af6c6 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf1e.1c87ca64 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1c973109 /CurlingVR/data/sensorValues d -27.166350
+dd20bf1e.1cb7b289 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf1e.1cb912db /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1ceaaf35 /CurlingVR/data/sensorValues d -27.102067
+dd20bf1e.1cf733a8 /CurlingVR/data/rawSensorValues s "   722"
+dd20bf1e.1d1e108c /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1d3543ae /CurlingVR/data/sensorValues d -24.443688
+dd20bf1e.1d4f5903 /CurlingVR/data/rawSensorValues s "   748"
+dd20bf1e.1d8e4324 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1daeb3dc /CurlingVR/data/sensorValues d -19.773629
+dd20bf1e.1dc0ca5f /CurlingVR/data/rawSensorValues s "   771"
+dd20bf1e.1dd97f62 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.1def416b /CurlingVR/data/sensorValues d -17.671833
+dd20bf1e.1e08f216 /CurlingVR/data/rawSensorValues s "   750"
+dd20bf1e.1e1eb420 /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.35e2046c /CurlingVR/data/sensorValues d -15.286461
+dd20bf1e.35f43c7d /CurlingVR/data/rawSensorValues s "   755"
+dd20bf1e.3615a8de /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.3628027d /CurlingVR/data/sensorValues d -9.581807
+dd20bf1e.363c2118 /CurlingVR/data/rawSensorValues s "   791"
+dd20bf1e.3669270a /CurlingVR/data/frequencyValue d 4.425314
+dd20bf1e.366fd651 /CurlingVR/data/sensorValues d 7.192620
+dd20bf1e.368a6117 /CurlingVR/data/rawSensorValues s "   909"
+dd20bf1e.36a9f7b5 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.36bce853 /CurlingVR/data/sensorValues d 22.329443
+dd20bf1e.36d5bee3 /CurlingVR/data/rawSensorValues s "   911"
+dd20bf1e.36f55581 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.3710cb29 /CurlingVR/data/sensorValues d 33.814022
+dd20bf1e.37227d02 /CurlingVR/data/rawSensorValues s "   891"
+dd20bf1e.373c4f3b /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.37698782 /CurlingVR/data/sensorValues d 40.745969
+dd20bf1e.3797edc7 /CurlingVR/data/rawSensorValues s "   858"
+dd20bf1e.37ab862a /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.37c792d0 /CurlingVR/data/sensorValues d 45.000587
+dd20bf1e.37e468ca /CurlingVR/data/rawSensorValues s "   839"
+dd20bf1e.37eeb2d0 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.380e27e0 /CurlingVR/data/sensorValues d 46.568451
+dd20bf1e.500b5675 /CurlingVR/data/rawSensorValues s "   817"
+dd20bf1e.5010a569 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.503e8576 /CurlingVR/data/sensorValues d 44.552850
+dd20bf1e.504d22c8 /CurlingVR/data/rawSensorValues s "   783"
+dd20bf1e.5064fdb0 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.50792d12 /CurlingVR/data/sensorValues d 41.920396
+dd20bf1e.509118c1 /CurlingVR/data/rawSensorValues s "   775"
+dd20bf1e.50b28522 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.50c38f36 /CurlingVR/data/sensorValues d 38.542959
+dd20bf1e.50ee9dd7 /CurlingVR/data/rawSensorValues s "   765"
+dd20bf1e.50fe047c /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.51245b28 /CurlingVR/data/sensorValues d 31.139120
+dd20bf1e.51564b65 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.515c63ad /CurlingVR/data/sensorValues d 23.422160
+dd20bf1e.51749278 /CurlingVR/data/rawSensorValues s "   710"
+dd20bf1e.518bc59b /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.51b291b7 /CurlingVR/data/sensorValues d 15.829927
+dd20bf1e.51e01de2 /CurlingVR/data/rawSensorValues s "   703"
+dd20bf1e.51e1b089 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.52106ab0 /CurlingVR/data/sensorValues d 7.465417
+dd20bf1e.52122fad /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1e.523a9f37 /CurlingVR/data/frequencyValue d 5.754814
+dd20bf1e.6a37585b /CurlingVR/data/sensorValues d -0.291826
+dd20bf1e.6a4b44a1 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1e.6a685db7 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6a884838 /CurlingVR/data/sensorValues d -7.797239
+dd20bf1e.6a94573a /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1e.6ab69db5 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6ac4e724 /CurlingVR/data/sensorValues d -14.872764
+dd20bf1e.6ae08f21 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf1e.6af166df /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6b1bac2d /CurlingVR/data/sensorValues d -20.964184
+dd20bf1e.6b28522e /CurlingVR/data/rawSensorValues s "   676"
+dd20bf1e.6b4a1272 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6b59ccfa /CurlingVR/data/sensorValues d -26.370675
+dd20bf1e.6b8194bf /CurlingVR/data/rawSensorValues s "   676"
+dd20bf1e.6b947496 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6bba98ed /CurlingVR/data/sensorValues d -30.864488
+dd20bf1e.6bc18b4f /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1e.6bf444e0 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6bf609dc /CurlingVR/data/sensorValues d -34.540611
+dd20bf1e.6c213a0b /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1e.6c333fc8 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.6c497741 /CurlingVR/data/sensorValues d -37.781495
+dd20bf1e.6c5e2cdb /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1e.6c72085a /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.846ef3d3 /CurlingVR/data/sensorValues d -40.235342
+dd20bf1e.8488f861 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf1e.84a2db61 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.84c4ef88 /CurlingVR/data/sensorValues d -40.500484
+dd20bf1e.84d7f0ec /CurlingVR/data/rawSensorValues s "   705"
+dd20bf1e.84eebf65 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.850ce4ea /CurlingVR/data/sensorValues d -38.221226
+dd20bf1e.8532f87a /CurlingVR/data/rawSensorValues s "   730"
+dd20bf1e.853b0813 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.8561b2a1 /CurlingVR/data/sensorValues d -31.598185
+dd20bf1e.85742dce /CurlingVR/data/rawSensorValues s "   776"
+dd20bf1e.85884c69 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.85c4c9c8 /CurlingVR/data/sensorValues d -24.972457
+dd20bf1e.85ef954e /CurlingVR/data/rawSensorValues s "   783"
+dd20bf1e.85f127f5 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.86221c89 /CurlingVR/data/sensorValues d -19.736962
+dd20bf1e.8623f24d /CurlingVR/data/rawSensorValues s "   776"
+dd20bf1e.86525891 /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.865e13b1 /CurlingVR/data/sensorValues d -7.726398
+dd20bf1e.86705c88 /CurlingVR/data/rawSensorValues s "   850"
+dd20bf1e.868ae74e /CurlingVR/data/frequencyValue d 5.765208
+dd20bf1e.86a53fbf /CurlingVR/data/sensorValues d 15.258741
+dd20bf1e.86b7025f /CurlingVR/data/rawSensorValues s "   974"
+dd20bf1e.9f06e5cc /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.9f13165c /CurlingVR/data/sensorValues d 35.426240
+dd20bf1e.9f148775 /CurlingVR/data/rawSensorValues s "   971"
+dd20bf1e.9f157257 /CurlingVR/data/sensorValues d 52.568056
+dd20bf1e.9f293d0f /CurlingVR/data/rawSensorValues s "   963"
+dd20bf1e.9f32378a /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.9f5f5f0a /CurlingVR/data/sensorValues d 64.620846
+dd20bf1e.9f6d5496 /CurlingVR/data/rawSensorValues s "   931"
+dd20bf1e.9f95703e /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.9f9db22c /CurlingVR/data/sensorValues d 71.632261
+dd20bf1e.9fca9691 /CurlingVR/data/rawSensorValues s "   894"
+dd20bf1e.9fd976fe /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.a000b88c /CurlingVR/data/sensorValues d 73.847800
+dd20bf1e.a007bbb5 /CurlingVR/data/rawSensorValues s "   854"
+dd20bf1e.a0244e93 /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.a04c1658 /CurlingVR/data/sensorValues d 70.698997
+dd20bf1e.a066b1e5 /CurlingVR/data/rawSensorValues s "   803"
+dd20bf1e.a07da1eb /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.a09aaa3a /CurlingVR/data/sensorValues d 65.941715
+dd20bf1e.a0abc514 /CurlingVR/data/rawSensorValues s "   784"
+dd20bf1e.a0c7d1ba /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.b8cea28f /CurlingVR/data/sensorValues d 60.350034
+dd20bf1e.b8dc981b /CurlingVR/data/rawSensorValues s "   771"
+dd20bf1e.b8f11b5f /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.b900b45a /CurlingVR/data/sensorValues d 52.238497
+dd20bf1e.b92c59fa /CurlingVR/data/rawSensorValues s "   740"
+dd20bf1e.b93ad5be /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.b954eb13 /CurlingVR/data/sensorValues d 42.483879
+dd20bf1e.b96cf850 /CurlingVR/data/rawSensorValues s "   715"
+dd20bf1e.b98c08b6 /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.b9a03818 /CurlingVR/data/sensorValues d 32.562030
+dd20bf1e.b9c20923 /CurlingVR/data/rawSensorValues s "   703"
+dd20bf1e.b9cac082 /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.b9f4e442 /CurlingVR/data/sensorValues d 22.105101
+dd20bf1e.ba2f2734 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf1e.ba3af31a /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.ba65492f /CurlingVR/data/sensorValues d 12.468872
+dd20bf1e.ba671ef2 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1e.ba90eecf /CurlingVR/data/frequencyValue d 5.004921
+dd20bf1e.ba9d627b /CurlingVR/data/sensorValues d 3.474523
+dd20bf1e.bacba732 /CurlingVR/data/rawSensorValues s "   680"
+dd20bf1e.bacd39d9 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.bae81881 /CurlingVR/data/sensorValues d -4.542916
+dd20bf1e.bb01fb82 /CurlingVR/data/rawSensorValues s "   680"
+dd20bf1e.bb13cee9 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d309d8c6 /CurlingVR/data/sensorValues d -11.780912
+dd20bf1e.d30bae89 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1e.d337b8d3 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d33c0c1e /CurlingVR/data/sensorValues d -18.218185
+dd20bf1e.d3687b12 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1e.d3796398 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d38c64fc /CurlingVR/data/sensorValues d -23.935577
+dd20bf1e.d3a19007 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1e.d3b84db8 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d3e1005f /CurlingVR/data/sensorValues d -28.807838
+dd20bf1e.d3e2d622 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1e.d40b673b /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d42ababd /CurlingVR/data/sensorValues d -32.823215
+dd20bf1e.d4420f6e /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1e.d4589aca /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d48abd5c /CurlingVR/data/sensorValues d -35.081092
+dd20bf1e.d4922530 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf1e.d4c868b9 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d4d9945a /CurlingVR/data/sensorValues d -35.869780
+dd20bf1e.d4f95d4d /CurlingVR/data/rawSensorValues s "   709"
+dd20bf1e.d50ce4e9 /CurlingVR/data/frequencyValue d 5.356628
+dd20bf1e.d53458cc /CurlingVR/data/sensorValues d -35.051631
+dd20bf1e.eb08bb8f /CurlingVR/data/sensorValues d 60.050211
+dd20bf1e.eb5019f2 /CurlingVR/data/rawSensorValues s "   847"
+dd20bf1e.eb661f17 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.075989df /CurlingVR/data/sensorValues d 60.883578
+dd20bf1f.076cacd1 /CurlingVR/data/rawSensorValues s "   831"
+dd20bf1f.07884406 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.079d909f /CurlingVR/data/sensorValues d 57.605224
+dd20bf1f.07c2dadb /CurlingVR/data/rawSensorValues s "   791"
+dd20bf1f.07cb3e57 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.07f23cc8 /CurlingVR/data/sensorValues d 52.349606
+dd20bf1f.07fb480a /CurlingVR/data/rawSensorValues s "   768"
+dd20bf1f.08183f91 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.08364388 /CurlingVR/data/sensorValues d 45.832500
+dd20bf1f.084e50c5 /CurlingVR/data/rawSensorValues s "   750"
+dd20bf1f.08657321 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.08827b6f /CurlingVR/data/sensorValues d 36.910927
+dd20bf1f.0899f1ae /CurlingVR/data/rawSensorValues s "   719"
+dd20bf1f.08af1cb8 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.08c447c3 /CurlingVR/data/sensorValues d 27.934894
+dd20bf1f.08d9b5e9 /CurlingVR/data/rawSensorValues s "   709"
+dd20bf1f.090385c6 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.09054ac2 /CurlingVR/data/sensorValues d 18.820314
+dd20bf1f.092d7731 /CurlingVR/data/rawSensorValues s "   698"
+dd20bf1f.092f09d8 /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.21800a7c /CurlingVR/data/sensorValues d 9.294403
+dd20bf1f.218c9fb5 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1f.21c9c4da /CurlingVR/data/frequencyValue d 6.219128
+dd20bf1f.21f64495 /CurlingVR/data/sensorValues d 0.500521
+dd20bf1f.22004b7f /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1f.2225529f /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.2230db69 /CurlingVR/data/sensorValues d -7.632328
+dd20bf1f.22502eec /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1f.22630ec2 /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.22a087ca /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1f.22b4202d /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.22d70e6f /CurlingVR/data/sensorValues d -21.206906
+dd20bf1f.22df1e08 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1f.2309e98d /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.23191dde /CurlingVR/data/sensorValues d -26.929935
+dd20bf1f.23349385 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1f.234c09c3 /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.23658819 /CurlingVR/data/sensorValues d -31.606224
+dd20bf1f.23789a45 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1f.23a15db3 /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.23d25247 /CurlingVR/data/sensorValues d -35.543191
+dd20bf1f.23e3c104 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1f.3bb96aef /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.3bbafd97 /CurlingVR/data/sensorValues d -38.520486
+dd20bf1f.3be93187 /CurlingVR/data/rawSensorValues s "   689"
+dd20bf1f.3bef8cea /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.3c1743e9 /CurlingVR/data/sensorValues d -38.164735
+dd20bf1f.3c250720 /CurlingVR/data/rawSensorValues s "   719"
+dd20bf1f.3c4944ed /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.3c5132f8 /CurlingVR/data/sensorValues d -35.631596
+dd20bf1f.3c7b02d5 /CurlingVR/data/rawSensorValues s "   741"
+dd20bf1f.3c8beb5a /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.3c9d6adf /CurlingVR/data/sensorValues d -31.457937
+dd20bf1f.3cc564f9 /CurlingVR/data/rawSensorValues s "   760"
+dd20bf1f.3cd0aaa7 /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.3d12ec6b /CurlingVR/data/sensorValues d -19.589750
+dd20bf1f.3d148fd9 /CurlingVR/data/rawSensorValues s "   842"
+dd20bf1f.3d3f290a /CurlingVR/data/frequencyValue d 5.377106
+dd20bf1f.3d40aaea /CurlingVR/data/sensorValues d 0.508395
+dd20bf1f.3d69f490 /CurlingVR/data/rawSensorValues s "   938"
+dd20bf1f.3d6b54e2 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.3d9b1b79 /CurlingVR/data/sensorValues d 21.385334
+dd20bf1f.3d9cae20 /CurlingVR/data/rawSensorValues s "   968"
+dd20bf1f.3dc40075 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.55e4712d /CurlingVR/data/sensorValues d 41.945301
+dd20bf1f.55e603d5 /CurlingVR/data/rawSensorValues s "   988"
+dd20bf1f.560ba1f4 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.561ef73b /CurlingVR/data/sensorValues d 59.628286
+dd20bf1f.563161a1 /CurlingVR/data/rawSensorValues s "   982"
+dd20bf1f.56681a9b /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.5669be09 /CurlingVR/data/sensorValues d 73.641198
+dd20bf1f.56974a33 /CurlingVR/data/rawSensorValues s "   965"
+dd20bf1f.56a6c19f /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.56c70003 /CurlingVR/data/sensorValues d 79.321061
+dd20bf1f.56d6a9c5 /CurlingVR/data/rawSensorValues s "   897"
+dd20bf1f.56f61ed5 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.570a0b1b /CurlingVR/data/sensorValues d 80.738498
+dd20bf1f.5731e3a7 /CurlingVR/data/rawSensorValues s "   861"
+dd20bf1f.573343f9 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.576d97b2 /CurlingVR/data/sensorValues d 78.059696
+dd20bf1f.577574f6 /CurlingVR/data/rawSensorValues s "   822"
+dd20bf1f.57b71fbc /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.57c2656a /CurlingVR/data/sensorValues d 69.555823
+dd20bf1f.57ec892a /CurlingVR/data/rawSensorValues s "   761"
+dd20bf1f.57ee0b0a /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.701205bb /CurlingVR/data/sensorValues d 59.929317
+dd20bf1f.70691ea7 /CurlingVR/data/rawSensorValues s "   741"
+dd20bf1f.706aa087 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.70a32f44 /CurlingVR/data/sensorValues d 50.401171
+dd20bf1f.70b94530 /CurlingVR/data/rawSensorValues s "   732"
+dd20bf1f.70ca925f /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.70f190d1 /CurlingVR/data/sensorValues d 39.584191
+dd20bf1f.7103b81a /CurlingVR/data/rawSensorValues s "   709"
+dd20bf1f.712a51e2 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.712c27a5 /CurlingVR/data/sensorValues d 29.411678
+dd20bf1f.716e9bbe /CurlingVR/data/rawSensorValues s "   704"
+dd20bf1f.7178a2a8 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.719d451f /CurlingVR/data/sensorValues d 19.427557
+dd20bf1f.71a543f1 /CurlingVR/data/rawSensorValues s "   695"
+dd20bf1f.71d388a8 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.71d54da4 /CurlingVR/data/sensorValues d 9.423278
+dd20bf1f.72032db1 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1f.72115592 /CurlingVR/data/frequencyValue d 6.252783
+dd20bf1f.724cb5ba /CurlingVR/data/sensorValues d 0.203042
+dd20bf1f.725accd4 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1f.726fd651 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.729802c0 /CurlingVR/data/sensorValues d -8.210391
+dd20bf1f.72a582db /CurlingVR/data/rawSensorValues s "   679"
+dd20bf1f.72fc6972 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.72fe2e6e /CurlingVR/data/sensorValues d -15.797550
+dd20bf1f.732c3009 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1f.8a41c3ef /CurlingVR/data/sensorValues d -22.244910
+dd20bf1f.8a4b2313 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf1f.8a634117 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.8a71ef30 /CurlingVR/data/sensorValues d -27.670264
+dd20bf1f.8a9a1b9f /CurlingVR/data/rawSensorValues s "   684"
+dd20bf1f.8aabffcd /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.8ad7f950 /CurlingVR/data/sensorValues d -31.981584
+dd20bf1f.8ad9be4c /CurlingVR/data/rawSensorValues s "   689"
+dd20bf1f.8b0520d0 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.8b107745 /CurlingVR/data/sensorValues d -35.097988
+dd20bf1f.8b3aeee8 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf1f.8b3c8190 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.8b6555c4 /CurlingVR/data/sensorValues d -37.047606
+dd20bf1f.8b6d97b2 /CurlingVR/data/rawSensorValues s "   704"
+dd20bf1f.8b88333f /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.8ba519ff /CurlingVR/data/sensorValues d -36.173669
+dd20bf1f.8bb0b391 /CurlingVR/data/rawSensorValues s "   730"
+dd20bf1f.8bdd11bd /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.8be2f7b0 /CurlingVR/data/sensorValues d -32.784817
+dd20bf1f.8c0f776b /CurlingVR/data/rawSensorValues s "   756"
+dd20bf1f.8c110a12 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.a4699417 /CurlingVR/data/sensorValues d -24.881564
+dd20bf1f.a476c050 /CurlingVR/data/rawSensorValues s "   805"
+dd20bf1f.a4a009f5 /CurlingVR/data/frequencyValue d 5.010410
+dd20bf1f.a4a1cef1 /CurlingVR/data/sensorValues d -3.459885
+dd20bf1f.a4cc4694 /CurlingVR/data/rawSensorValues s "   950"
+dd20bf1f.a4dae3e6 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.a502688f /CurlingVR/data/sensorValues d 18.897291
+dd20bf1f.a50dbf04 /CurlingVR/data/rawSensorValues s "   983"
+dd20bf1f.a53bf2f4 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.a53da729 /CurlingVR/data/sensorValues d 38.798637
+dd20bf1f.a56c82df /CurlingVR/data/rawSensorValues s "   983"
+dd20bf1f.a57afea3 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.a5934efc /CurlingVR/data/sensorValues d 53.818938
+dd20bf1f.a5acffa7 /CurlingVR/data/rawSensorValues s "   956"
+dd20bf1f.a5d18090 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.a5e279dc /CurlingVR/data/sensorValues d 64.574208
+dd20bf1f.a5f0b284 /CurlingVR/data/rawSensorValues s "   930"
+dd20bf1f.a6228133 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.a62a3ce9 /CurlingVR/data/sensorValues d 71.320579
+dd20bf1f.a6469d72 /CurlingVR/data/rawSensorValues s "   902"
+dd20bf1f.a66afccd /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.a6ad70e6 /CurlingVR/data/rawSensorValues s "   844"
+dd20bf1f.a6dd8b60 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.be9a6f81 /CurlingVR/data/sensorValues d 68.652903
+dd20bf1f.bea619d9 /CurlingVR/data/rawSensorValues s "   814"
+dd20bf1f.becaff6c /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.beccc468 /CurlingVR/data/sensorValues d 63.061204
+dd20bf1f.bef42783 /CurlingVR/data/rawSensorValues s "   784"
+dd20bf1f.bf02e663 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.bf262887 /CurlingVR/data/sensorValues d 56.035940
+dd20bf1f.bf2ce895 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf1f.bf5b0bbe /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.bf5cd0ba /CurlingVR/data/sensorValues d 46.156393
+dd20bf1f.bf8ae31c /CurlingVR/data/rawSensorValues s "   728"
+dd20bf1f.bf9d2bf4 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.bfd6c720 /CurlingVR/data/sensorValues d 35.030560
+dd20bf1f.bfd87b55 /CurlingVR/data/rawSensorValues s "   705"
+dd20bf1f.c01ca3a3 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.c01e68a0 /CurlingVR/data/sensorValues d 24.290413
+dd20bf1f.c0446b69 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf1f.c07a072c /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.c087ebf1 /CurlingVR/data/sensorValues d 13.211651
+dd20bf1f.c0aa21a6 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf1f.c0b81732 /CurlingVR/data/frequencyValue d 6.793297
+dd20bf1f.c0e2089d /CurlingVR/data/sensorValues d 2.931263
+dd20bf1f.c0f00ef0 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1f.c1167663 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.d8cc35cd /CurlingVR/data/sensorValues d -6.627495
+dd20bf1f.d8dd3fe0 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf1f.d8f7db6d /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.d90b417b /CurlingVR/data/sensorValues d -15.236720
+dd20bf1f.d921ab4a /CurlingVR/data/rawSensorValues s "   673"
+dd20bf1f.d944241b /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.d95ae1cd /CurlingVR/data/sensorValues d -22.694303
+dd20bf1f.d9707181 /CurlingVR/data/rawSensorValues s "   675"
+dd20bf1f.d9804d97 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.d9b17480 /CurlingVR/data/sensorValues d -29.019315
+dd20bf1f.d9b3397c /CurlingVR/data/rawSensorValues s "   678"
+dd20bf1f.d9ce4a7a /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.da087ca5 /CurlingVR/data/sensorValues d -33.833882
+dd20bf1f.da160d87 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf1f.da2d0e55 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.da530057 /CurlingVR/data/sensorValues d -37.792827
+dd20bf1f.da54d61a /CurlingVR/data/rawSensorValues s "   689"
+dd20bf1f.da8283d2 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.da8448ce /CurlingVR/data/sensorValues d -40.094454
+dd20bf1f.daafab52 /CurlingVR/data/rawSensorValues s "   701"
+dd20bf1f.dabd1aa7 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.f2fd86a8 /CurlingVR/data/sensorValues d -37.452109
+dd20bf1f.f2ff4ba4 /CurlingVR/data/rawSensorValues s "   748"
+dd20bf1f.f32ca579 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.f32e7b3c /CurlingVR/data/sensorValues d -33.773328
+dd20bf1f.f3585be0 /CurlingVR/data/rawSensorValues s "   761"
+dd20bf1f.f3694466 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.f381626a /CurlingVR/data/sensorValues d -31.154760
+dd20bf1f.f3cc7d1a /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.f3d9231b /CurlingVR/data/sensorValues d -26.711462
+dd20bf1f.f4011d35 /CurlingVR/data/rawSensorValues s "   775"
+dd20bf1f.f40ffda3 /CurlingVR/data/frequencyValue d 5.361627
+dd20bf1f.f43925ba /CurlingVR/data/sensorValues d -1.044772
+dd20bf1f.f4473cd4 /CurlingVR/data/rawSensorValues s "   994"
+dd20bf1f.f46cebba /CurlingVR/data/frequencyValue d 6.229732
+dd20bf1f.f4710cb1 /CurlingVR/data/sensorValues d 21.825294
+dd20bf1f.f49c4da8 /CurlingVR/data/rawSensorValues s "   994"
+dd20bf1f.f4a8e2e1 /CurlingVR/data/frequencyValue d 6.229732
+dd20bf1f.f4c1db00 /CurlingVR/data/sensorValues d 42.180698
+dd20bf1f.f4e8d971 /CurlingVR/data/rawSensorValues s "   994"
+dd20bf1f.f51569f3 /CurlingVR/data/frequencyValue d 6.229732
+dd20bf1f.f522d947 /CurlingVR/data/sensorValues d 60.275181
+dd20bf1f.f548ba82 /CurlingVR/data/rawSensorValues s "   994"
+dd20bf1f.f558c8ed /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.0d83c6c9 /CurlingVR/data/sensorValues d 65.942091
+dd20bf20.0d9fb1e1 /CurlingVR/data/rawSensorValues s "   889"
+dd20bf20.0db6f5ca /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.0dc8a7a4 /CurlingVR/data/sensorValues d 70.925366
+dd20bf20.0df62307 /CurlingVR/data/rawSensorValues s "   889"
+dd20bf20.0e014727 /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.0e2595bb /CurlingVR/data/sensorValues d 67.671538
+dd20bf20.0e2bcf91 /CurlingVR/data/rawSensorValues s "   812"
+dd20bf20.0e5abc0e /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.0e68900c /CurlingVR/data/sensorValues d 61.932706
+dd20bf20.0e8a936c /CurlingVR/data/rawSensorValues s "   784"
+dd20bf20.0eb6e0d2 /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.0ebfdb4c /CurlingVR/data/sensorValues d 53.589474
+dd20bf20.0eea4228 /CurlingVR/data/rawSensorValues s "   752"
+dd20bf20.0ef123c4 /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.0f182235 /CurlingVR/data/sensorValues d 45.706064
+dd20bf20.2829bf16 /CurlingVR/data/rawSensorValues s "   748"
+dd20bf20.28b3b320 /CurlingVR/data/rawSensorValues s "   740"
+dd20bf20.28c6e6d9 /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.28e8b7e4 /CurlingVR/data/sensorValues d 21.228638
+dd20bf20.28f38822 /CurlingVR/data/rawSensorValues s "   707"
+dd20bf20.291deefe /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.294ab1d4 /CurlingVR/data/sensorValues d 12.677980
+dd20bf20.2973c925 /CurlingVR/data/rawSensorValues s "   707"
+dd20bf20.297c4e2f /CurlingVR/data/frequencyValue d 6.229732
+dd20bf20.29a78f25 /CurlingVR/data/sensorValues d 3.759665
+dd20bf20.29b866e4 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf20.29dd2ae8 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.29eadd58 /CurlingVR/data/sensorValues d -4.289313
+dd20bf20.2a10be93 /CurlingVR/data/rawSensorValues s "   693"
+dd20bf20.2a121ee6 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.2a428d43 /CurlingVR/data/sensorValues d -11.555664
+dd20bf20.2a4de3b8 /CurlingVR/data/rawSensorValues s "   692"
+dd20bf20.2a724313 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.2a864020 /CurlingVR/data/sensorValues d -18.513426
+dd20bf20.2a9802c0 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf20.2ab777d0 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.2ac929a9 /CurlingVR/data/sensorValues d -25.288279
+dd20bf20.2af39085 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf20.2afa5093 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.5bc9cd3d /CurlingVR/data/sensorValues d -56.872128
+dd20bf20.5bcba300 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf20.5be8ff32 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.5bf4128b /CurlingVR/data/sensorValues d -59.960897
+dd20bf20.5c1eeed8 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf20.5c288051 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.5c51fc4b /CurlingVR/data/sensorValues d -60.574029
+dd20bf20.5c53c147 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf20.5c79702e /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.5ccc78e9 /CurlingVR/data/sensorValues d -59.970756
+dd20bf20.5cefcbd4 /CurlingVR/data/rawSensorValues s "   705"
+dd20bf20.5d061415 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.75e0e735 /CurlingVR/data/sensorValues d -59.571269
+dd20bf20.75f8b156 /CurlingVR/data/rawSensorValues s "   703"
+dd20bf20.760b8066 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.76368f07 /CurlingVR/data/sensorValues d -58.264754
+dd20bf20.76385403 /CurlingVR/data/rawSensorValues s "   712"
+dd20bf20.765c7042 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.766c8f74 /CurlingVR/data/sensorValues d -53.676385
+dd20bf20.7694898e /CurlingVR/data/rawSensorValues s "   746"
+dd20bf20.76a6a011 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.76bb01c8 /CurlingVR/data/sensorValues d -46.762472
+dd20bf20.76e3f78b /CurlingVR/data/rawSensorValues s "   774"
+dd20bf20.76e58a32 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.771044f1 /CurlingVR/data/sensorValues d -25.210413
+dd20bf20.77121ab4 /CurlingVR/data/rawSensorValues s "   929"
+dd20bf20.77489092 /CurlingVR/data/frequencyValue d 5.383373
+dd20bf20.7759ab6c /CurlingVR/data/sensorValues d -6.180317
+dd20bf20.779042d8 /CurlingVR/data/rawSensorValues s "   927"
+dd20bf20.7791d57f /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.77c1bda4 /CurlingVR/data/sensorValues d 10.781678
+dd20bf20.77d1fe64 /CurlingVR/data/rawSensorValues s "   927"
+dd20bf20.77f6b1a2 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.77ffac1c /CurlingVR/data/sensorValues d 24.894034
+dd20bf20.7821c043 /CurlingVR/data/rawSensorValues s "   917"
+dd20bf20.782e9899 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.7846d82b /CurlingVR/data/sensorValues d 35.463249
+dd20bf20.78651f3e /CurlingVR/data/rawSensorValues s "   897"
+dd20bf20.7880b673 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.78a3725f /CurlingVR/data/sensorValues d 44.844956
+dd20bf20.78b78033 /CurlingVR/data/rawSensorValues s "   897"
+dd20bf20.78d94078 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.78ec41dc /CurlingVR/data/sensorValues d 47.516213
+dd20bf20.790e3475 /CurlingVR/data/rawSensorValues s "   840"
+dd20bf20.791c3ac8 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.79476af8 /CurlingVR/data/sensorValues d 46.779786
+dd20bf20.795410f8 /CurlingVR/data/rawSensorValues s "   809"
+dd20bf20.797d2849 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.798ac9f2 /CurlingVR/data/sensorValues d 43.106850
+dd20bf20.79b291b7 /CurlingVR/data/rawSensorValues s "   779"
+dd20bf20.79bf162a /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.79e82d7a /CurlingVR/data/sensorValues d 37.217157
+dd20bf20.79ef954e /CurlingVR/data/rawSensorValues s "   753"
+dd20bf20.7a17b0f6 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.90148344 /CurlingVR/data/sensorValues d 31.833223
+dd20bf20.9024d4cb /CurlingVR/data/rawSensorValues s "   752"
+dd20bf20.904cf073 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.905db76a /CurlingVR/data/sensorValues d 25.915305
+dd20bf20.9078c868 /CurlingVR/data/rawSensorValues s "   741"
+dd20bf20.909c2c1a /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.90ad362d /CurlingVR/data/sensorValues d 18.141525
+dd20bf20.90c271ff /CurlingVR/data/rawSensorValues s "   716"
+dd20bf20.90e25c80 /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.9109aed4 /CurlingVR/data/sensorValues d 11.196945
+dd20bf20.9117a460 /CurlingVR/data/rawSensorValues s "   716"
+dd20bf20.9143e0ff /CurlingVR/data/frequencyValue d 3.939275
+dd20bf20.914a7f7f /CurlingVR/data/sensorValues d 3.513128
+dd20bf20.917214ef /CurlingVR/data/rawSensorValues s "   701"
+dd20bf20.9173a796 /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.919c7bcb /CurlingVR/data/sensorValues d -4.524667
+dd20bf20.91a8693f /CurlingVR/data/rawSensorValues s "   689"
+dd20bf20.91d30270 /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.91d9a0f0 /CurlingVR/data/sensorValues d -12.176817
+dd20bf20.91fd8ada /CurlingVR/data/rawSensorValues s "   684"
+dd20bf20.920d887e /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.9223f24c /CurlingVR/data/sensorValues d -19.081706
+dd20bf20.924de3b8 /CurlingVR/data/rawSensorValues s "   683"
+dd20bf20.92568a4f /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.aa43bb40 /CurlingVR/data/sensorValues d -22.739880
+dd20bf20.aa540cc6 /CurlingVR/data/rawSensorValues s "   708"
+dd20bf20.aa834d26 /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.aa897635 /CurlingVR/data/sensorValues d -25.976574
+dd20bf20.aa9ced0a /CurlingVR/data/rawSensorValues s "   708"
+dd20bf20.aac3eb7c /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.aad3b6cb /CurlingVR/data/sensorValues d -29.230491
+dd20bf20.aaf5ba2b /CurlingVR/data/rawSensorValues s "   704"
+dd20bf20.ab079e59 /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.ab2bfdb4 /CurlingVR/data/sensorValues d -29.526501
+dd20bf20.ab2edfe6 /CurlingVR/data/rawSensorValues s "   730"
+dd20bf20.ab597917 /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.ab67a0f8 /CurlingVR/data/sensorValues d -29.760719
+dd20bf20.ab7c88e6 /CurlingVR/data/rawSensorValues s "   730"
+dd20bf20.aba8f7da /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.abc200c0 /CurlingVR/data/sensorValues d -23.999647
+dd20bf20.abde7210 /CurlingVR/data/rawSensorValues s "   790"
+dd20bf20.ac123810 /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.ac430b16 /CurlingVR/data/sensorValues d -12.902532
+dd20bf20.ac5857af /CurlingVR/data/rawSensorValues s "   850"
+dd20bf20.ac73de1d /CurlingVR/data/frequencyValue d 5.775083
+dd20bf20.ac97635d /CurlingVR/data/sensorValues d 2.145900
+dd20bf20.c472c0e6 /CurlingVR/data/rawSensorValues s "   902"
+dd20bf20.c47eae5b /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c498d476 /CurlingVR/data/sensorValues d 8.918907
+dd20bf20.c4b52438 /CurlingVR/data/rawSensorValues s "   835"
+dd20bf20.c4c6b484 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c4dbbe00 /CurlingVR/data/sensorValues d 8.608737
+dd20bf20.c5056c4f /CurlingVR/data/rawSensorValues s "   771"
+dd20bf20.c5198aea /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c53d5346 /CurlingVR/data/sensorValues d 33.964767
+dd20bf20.c54ca925 /CurlingVR/data/rawSensorValues s "  1030"
+dd20bf20.c562f166 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c57a4616 /CurlingVR/data/sensorValues d 56.523025
+dd20bf20.c5996743 /CurlingVR/data/rawSensorValues s "  1030"
+dd20bf20.c5ae2da4 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c5b9f98a /CurlingVR/data/sensorValues d 61.121910
+dd20bf20.c5f9f01a /CurlingVR/data/rawSensorValues s "   874"
+dd20bf20.c5fe75bb /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c6385403 /CurlingVR/data/sensorValues d 63.772395
+dd20bf20.c64a276a /CurlingVR/data/rawSensorValues s "   860"
+dd20bf20.c663d815 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.c67b3d8d /CurlingVR/data/sensorValues d 64.684204
+dd20bf20.c696b334 /CurlingVR/data/rawSensorValues s "   846"
+dd20bf20.c6b4d8b9 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.dea14056 /CurlingVR/data/sensorValues d 62.560942
+dd20bf20.dea30552 /CurlingVR/data/rawSensorValues s "   817"
+dd20bf20.ded20295 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.ded3c791 /CurlingVR/data/sensorValues d 59.814555
+dd20bf20.defdc9c3 /CurlingVR/data/rawSensorValues s "   809"
+dd20bf20.df0b178a /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.df225b73 /CurlingVR/data/sensorValues d 56.020709
+dd20bf20.df43419d /CurlingVR/data/rawSensorValues s "   796"
+dd20bf20.df564301 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.df6e6105 /CurlingVR/data/sensorValues d 51.594371
+dd20bf20.df94facd /CurlingVR/data/rawSensorValues s "   786"
+dd20bf20.dfa14ceb /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.dfc42a65 /CurlingVR/data/sensorValues d 47.598911
+dd20bf20.e011904a /CurlingVR/data/sensorValues d 39.833356
+dd20bf20.e03ed958 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.e04d22c7 /CurlingVR/data/sensorValues d 30.201413
+dd20bf20.e074fb53 /CurlingVR/data/rawSensorValues s "   717"
+dd20bf20.e0767d33 /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.e0b2b776 /CurlingVR/data/sensorValues d 20.599151
+dd20bf20.e0bb4d47 /CurlingVR/data/rawSensorValues s "   707"
+dd20bf20.e0fa8b4b /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.f8ccff20 /CurlingVR/data/sensorValues d 11.428936
+dd20bf20.f8fabd9f /CurlingVR/data/rawSensorValues s "   701"
+dd20bf20.f90cc35b /CurlingVR/data/frequencyValue d 6.815884
+dd20bf20.f949a564 /CurlingVR/data/rawSensorValues s "   703"
+dd20bf20.f957cd45 /CurlingVR/data/frequencyValue d 4.414053
+dd20bf20.f982ba59 /CurlingVR/data/sensorValues d -4.068423
+dd20bf20.f9885d30 /CurlingVR/data/rawSensorValues s "   699"
+dd20bf20.f9b0574a /CurlingVR/data/frequencyValue d 4.414053
+dd20bf20.f9b79d8f /CurlingVR/data/sensorValues d -10.758678
+dd20bf20.f9e26915 /CurlingVR/data/rawSensorValues s "   699"
+dd20bf20.f9e90794 /CurlingVR/data/frequencyValue d 4.414053
+dd20bf20.fa0f7fce /CurlingVR/data/sensorValues d -16.906936
+dd20bf20.fa3da2f7 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf20.fa4bfd2d /CurlingVR/data/frequencyValue d 4.414053
+dd20bf20.fa608072 /CurlingVR/data/sensorValues d -21.774127
+dd20bf20.fa820e61 /CurlingVR/data/rawSensorValues s "   703"
+dd20bf20.fa906897 /CurlingVR/data/frequencyValue d 4.414053
+dd20bf20.fab0856d /CurlingVR/data/sensorValues d -26.386020
+dd20bf20.fae33efe /CurlingVR/data/rawSensorValues s "   700"
+dd20bf20.faf56648 /CurlingVR/data/frequencyValue d 4.414053
+dd20bf20.fb1dd5d2 /CurlingVR/data/sensorValues d -30.270830
+dd20bf20.fb2bcb5e /CurlingVR/data/rawSensorValues s "   702"
+dd20bf20.fb4cc24f /CurlingVR/data/frequencyValue d 4.414053
+dd20bf21.135d7881 /CurlingVR/data/sensorValues d -32.018926
+dd20bf21.13621faf /CurlingVR/data/rawSensorValues s "   719"
+dd20bf21.139f340d /CurlingVR/data/sensorValues d -30.379527
+dd20bf21.13ad080b /CurlingVR/data/rawSensorValues s "   743"
+dd20bf21.13c87db2 /CurlingVR/data/frequencyValue d 4.414053
+dd20bf21.13eab367 /CurlingVR/data/sensorValues d -19.845207
+dd20bf21.1412ad81 /CurlingVR/data/rawSensorValues s "   842"
+dd20bf21.14345cfe /CurlingVR/data/frequencyValue d 4.414053
+dd20bf21.144a72ea /CurlingVR/data/sensorValues d -10.439284
+dd20bf21.14813cab /CurlingVR/data/rawSensorValues s "   842"
+dd20bf21.148f53c5 /CurlingVR/data/frequencyValue d 4.414053
+dd20bf21.14b2313f /CurlingVR/data/sensorValues d -2.048166
+dd20bf21.14db4890 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.14f7446f /CurlingVR/data/sensorValues d -2.291633
+dd20bf21.151f3e89 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf21.15266341 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2d30df9b /CurlingVR/data/sensorValues d 9.571730
+dd20bf21.2d3eb399 /CurlingVR/data/rawSensorValues s "   886"
+dd20bf21.2d519370 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2d795b35 /CurlingVR/data/sensorValues d 26.666415
+dd20bf21.2d7b30f8 /CurlingVR/data/rawSensorValues s "   952"
+dd20bf21.2da4bdb9 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2db8023a /CurlingVR/data/sensorValues d 40.188113
+dd20bf21.2de02ea9 /CurlingVR/data/rawSensorValues s "   935"
+dd20bf21.2defd86a /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2e14bdfc /CurlingVR/data/sensorValues d 50.710758
+dd20bf21.2e1b4bb5 /CurlingVR/data/rawSensorValues s "   920"
+dd20bf21.2e3c2118 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2e4febd0 /CurlingVR/data/sensorValues d 58.748723
+dd20bf21.2e6bf876 /CurlingVR/data/rawSensorValues s "   907"
+dd20bf21.2e7f5e84 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2ea161e4 /CurlingVR/data/sensorValues d 64.069802
+dd20bf21.2eb52c9c /CurlingVR/data/rawSensorValues s "   889"
+dd20bf21.2ed0917d /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2ee4e26d /CurlingVR/data/sensorValues d 68.152813
+dd20bf21.2f00cd85 /CurlingVR/data/rawSensorValues s "   883"
+dd20bf21.2f1ac14c /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.2f329c34 /CurlingVR/data/sensorValues d 71.029623
+dd20bf21.2f504c48 /CurlingVR/data/rawSensorValues s "   876"
+dd20bf21.2f67b1bf /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.4759ccfa /CurlingVR/data/sensorValues d 73.224831
+dd20bf21.475ba2bd /CurlingVR/data/rawSensorValues s "   873"
+dd20bf21.47764f11 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.479a9da5 /CurlingVR/data/sensorValues d 69.365537
+dd20bf21.47a37691 /CurlingVR/data/rawSensorValues s "   815"
+dd20bf21.47c4e2f3 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.47d61f5b /CurlingVR/data/sensorValues d 62.689540
+dd20bf21.47efd006 /CurlingVR/data/rawSensorValues s "   783"
+dd20bf21.480a17b0 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.482a66db /CurlingVR/data/sensorValues d 50.936538
+dd20bf21.482be8bb /CurlingVR/data/rawSensorValues s "   725"
+dd20bf21.4857c0b0 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.488626f5 /CurlingVR/data/sensorValues d 38.829676
+dd20bf21.488d7e02 /CurlingVR/data/rawSensorValues s "   709"
+dd20bf21.48b60f1a /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.48c14402 /CurlingVR/data/sensorValues d 26.815632
+dd20bf21.48ef88b9 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf21.49003ee9 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.491bb491 /CurlingVR/data/sensorValues d 14.995304
+dd20bf21.493671ab /CurlingVR/data/rawSensorValues s "   686"
+dd20bf21.4961e4f7 /CurlingVR/data/frequencyValue d 6.242601
+dd20bf21.497a67a4 /CurlingVR/data/sensorValues d 3.953396
+dd20bf21.49931ca7 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf21.49a9435a /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.61892684 /CurlingVR/data/sensorValues d -6.185898
+dd20bf21.618d1526 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf21.61b8348e /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.61c03360 /CurlingVR/data/sensorValues d -15.114822
+dd20bf21.61ed5ae1 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf21.61feb8d7 /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.621c25d0 /CurlingVR/data/sensorValues d -22.362379
+dd20bf21.622f166d /CurlingVR/data/rawSensorValues s "   686"
+dd20bf21.6258b3f5 /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.62672fb9 /CurlingVR/data/sensorValues d -28.401590
+dd20bf21.62812380 /CurlingVR/data/rawSensorValues s "   690"
+dd20bf21.6294ab1c /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.62bbcb1c /CurlingVR/data/sensorValues d -32.170125
+dd20bf21.62bda0df /CurlingVR/data/rawSensorValues s "   706"
+dd20bf21.62ededae /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.62f240fa /CurlingVR/data/sensorValues d -34.010720
+dd20bf21.632a497f /CurlingVR/data/rawSensorValues s "   721"
+dd20bf21.6339c0eb /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.634efcbc /CurlingVR/data/sensorValues d -34.032679
+dd20bf21.6365ecc3 /CurlingVR/data/rawSensorValues s "   737"
+dd20bf21.637e1b8e /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.7bb0f6ac /CurlingVR/data/sensorValues d -17.584212
+dd20bf21.7bc99ae8 /CurlingVR/data/rawSensorValues s "   903"
+dd20bf21.7bde1e2d /CurlingVR/data/frequencyValue d 4.411323
+dd20bf21.7c024b33 /CurlingVR/data/sensorValues d -2.614044
+dd20bf21.7c04102f /CurlingVR/data/rawSensorValues s "   906"
+dd20bf21.7c348f53 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.7c377185 /CurlingVR/data/sensorValues d 12.112990
+dd20bf21.7c60ed80 /CurlingVR/data/rawSensorValues s "   920"
+dd20bf21.7c628027 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.7c8eef1b /CurlingVR/data/sensorValues d 23.935664
+dd20bf21.7c9a77e5 /CurlingVR/data/rawSensorValues s "   907"
+dd20bf21.7cbed740 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.7cc08b75 /CurlingVR/data/sensorValues d 33.554732
+dd20bf21.7ced4e4c /CurlingVR/data/rawSensorValues s "   898"
+dd20bf21.7cff865c /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.7d26a65c /CurlingVR/data/sensorValues d 40.903766
+dd20bf21.7d38cda6 /CurlingVR/data/rawSensorValues s "   886"
+dd20bf21.7d4c76d0 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.7d733226 /CurlingVR/data/sensorValues d 46.024851
+dd20bf21.7d7a354f /CurlingVR/data/rawSensorValues s "   872"
+dd20bf21.7da27285 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.7daad601 /CurlingVR/data/sensorValues d 48.660714
+dd20bf21.7dc40074 /CurlingVR/data/rawSensorValues s "   853"
+dd20bf21.7ddaf07b /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.95e54b48 /CurlingVR/data/sensorValues d 48.386606
+dd20bf21.95e71044 /CurlingVR/data/rawSensorValues s "   827"
+dd20bf21.961b3aee /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.961cffea /CurlingVR/data/sensorValues d 44.331990
+dd20bf21.9647fdc4 /CurlingVR/data/rawSensorValues s "   789"
+dd20bf21.964f00ee /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.967b80a9 /CurlingVR/data/sensorValues d 39.882995
+dd20bf21.96875d56 /CurlingVR/data/rawSensorValues s "   781"
+dd20bf21.96b430f3 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.96b5f5f0 /CurlingVR/data/sensorValues d 35.879058
+dd20bf21.96e46cfb /CurlingVR/data/rawSensorValues s "   781"
+dd20bf21.96e5ffa3 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.97139c94 /CurlingVR/data/sensorValues d 27.028670
+dd20bf21.973dd11b /CurlingVR/data/rawSensorValues s "   728"
+dd20bf21.97861a60 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.97ab3247 /CurlingVR/data/rawSensorValues s "   721"
+dd20bf21.97e5d9e3 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.97ed41b6 /CurlingVR/data/sensorValues d 9.350823
+dd20bf21.9818a43b /CurlingVR/data/rawSensorValues s "   707"
+dd20bf21.982c1b10 /CurlingVR/data/frequencyValue d 8.330759
+dd20bf21.98408d8e /CurlingVR/data/sensorValues d 0.169211
+dd20bf21.9857d177 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf21.986c97d8 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b015f45d /CurlingVR/data/sensorValues d -8.209775
+dd20bf21.b02a0231 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf21.b04c0591 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b059a73a /CurlingVR/data/sensorValues d -15.667241
+dd20bf21.b06ed245 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf21.b0985f06 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b0a600af /CurlingVR/data/sensorValues d -22.395177
+dd20bf21.b0c8de2a /CurlingVR/data/rawSensorValues s "   693"
+dd20bf21.b0dc11e3 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b0efcbd4 /CurlingVR/data/sensorValues d -28.367372
+dd20bf21.b10f0e90 /CurlingVR/data/rawSensorValues s "   693"
+dd20bf21.b121dd9f /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b1465e88 /CurlingVR/data/sensorValues d -33.660231
+dd20bf21.b1482384 /CurlingVR/data/rawSensorValues s "   693"
+dd20bf21.b1729b27 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b18090b3 /CurlingVR/data/sensorValues d -38.045508
+dd20bf21.b1a8cde9 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf21.b1b68059 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.b1dce7cc /CurlingVR/data/sensorValues d -41.518744
+dd20bf21.b1ea8975 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf21.b1fefbf3 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.ca424a26 /CurlingVR/data/sensorValues d -44.373879
+dd20bf21.ca440f22 /CurlingVR/data/rawSensorValues s "   702"
+dd20bf21.ca706d4f /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.ca72324b /CurlingVR/data/sensorValues d -44.200430
+dd20bf21.ca9b8cb8 /CurlingVR/data/rawSensorValues s "   729"
+dd20bf21.ca9d1f5f /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.cac98e53 /CurlingVR/data/sensorValues d -42.417686
+dd20bf21.cacb534f /CurlingVR/data/rawSensorValues s "   745"
+dd20bf21.caf6c69a /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.caf88b96 /CurlingVR/data/sensorValues d -40.786844
+dd20bf21.cb2af144 /CurlingVR/data/rawSensorValues s "   745"
+dd20bf21.cb2c94b2 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.cb5c0767 /CurlingVR/data/sensorValues d -38.302977
+dd20bf21.cb69db65 /CurlingVR/data/rawSensorValues s "   755"
+dd20bf21.cb87ce95 /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.cb9fcb0b /CurlingVR/data/sensorValues d -20.805549
+dd20bf21.cbb42cc2 /CurlingVR/data/rawSensorValues s "   909"
+dd20bf21.cbdb3bfa /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.cbe77d51 /CurlingVR/data/sensorValues d -5.689534
+dd20bf21.cc0d4dc5 /CurlingVR/data/rawSensorValues s "   904"
+dd20bf21.cc0ee06c /CurlingVR/data/frequencyValue d 5.355479
+dd20bf21.cc3c18b4 /CurlingVR/data/sensorValues d 6.101524
+dd20bf21.cc3dddb0 /CurlingVR/data/rawSensorValues s "   887"
+dd20bf21.cc5f9df4 /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e474a770 /CurlingVR/data/sensorValues d 15.512256
+dd20bf21.e4848386 /CurlingVR/data/rawSensorValues s "   876"
+dd20bf21.e4a9de8a /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e4b1feea /CurlingVR/data/sensorValues d 20.911705
+dd20bf21.e4cdfac9 /CurlingVR/data/rawSensorValues s "   846"
+dd20bf21.e501c0c9 /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e5245b28 /CurlingVR/data/sensorValues d 20.058703
+dd20bf21.e5322f26 /CurlingVR/data/rawSensorValues s "   789"
+dd20bf21.e5532616 /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e55d0b72 /CurlingVR/data/sensorValues d 18.189619
+dd20bf21.e58a760f /CurlingVR/data/rawSensorValues s "   778"
+dd20bf21.e5b3397c /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e5c3dee6 /CurlingVR/data/sensorValues d 15.120076
+dd20bf21.e5e7967b /CurlingVR/data/rawSensorValues s "   764"
+dd20bf21.e612b5e4 /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e6141636 /CurlingVR/data/sensorValues d 10.587993
+dd20bf21.e64095f1 /CurlingVR/data/rawSensorValues s "   746"
+dd20bf21.e64c0df4 /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e672fb9f /CurlingVR/data/sensorValues d 5.351319
+dd20bf21.e67a6372 /CurlingVR/data/rawSensorValues s "   734"
+dd20bf21.e6a7ce0e /CurlingVR/data/frequencyValue d 5.004133
+dd20bf21.e6b2f22f /CurlingVR/data/sensorValues d -1.794909
+dd20bf21.e6ee631e /CurlingVR/data/rawSensorValues s "   709"
+dd20bf21.e6fe8250 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf21.fea1e81b /CurlingVR/data/sensorValues d -9.348403
+dd20bf21.feeb0b7b /CurlingVR/data/rawSensorValues s "   697"
+dd20bf21.feec9e22 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf21.ff1e6cd1 /CurlingVR/data/sensorValues d -16.168218
+dd20bf21.ff2ebe58 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf21.ff42edba /CurlingVR/data/frequencyValue d 9.397526
+dd20bf21.ff5946c2 /CurlingVR/data/sensorValues d -22.228504
+dd20bf21.ff723ee0 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf21.ff90fb64 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf21.ffa42f1d /CurlingVR/data/sensorValues d -27.506992
+dd20bf21.ffcd1419 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf21.fff06704 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.000852b4 /CurlingVR/data/sensorValues d -33.469616
+dd20bf22.002ca148 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf22.00331e3a /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.00489d27 /CurlingVR/data/sensorValues d -35.976846
+dd20bf22.006748e4 /CurlingVR/data/rawSensorValues s "   712"
+dd20bf22.00860568 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.0097a67a /CurlingVR/data/sensorValues d -37.976810
+dd20bf22.00be1eb4 /CurlingVR/data/rawSensorValues s "   714"
+dd20bf22.00c942d4 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.18c6c54b /CurlingVR/data/sensorValues d -39.621802
+dd20bf22.18d92fb1 /CurlingVR/data/rawSensorValues s "   715"
+dd20bf22.18f10a99 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.1907852f /CurlingVR/data/sensorValues d -41.344867
+dd20bf22.192a8437 /CurlingVR/data/rawSensorValues s "   712"
+dd20bf22.19432873 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.195592d9 /CurlingVR/data/sensorValues d -40.264774
+dd20bf22.1974f722 /CurlingVR/data/rawSensorValues s "   738"
+dd20bf22.199018e7 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.19a47a9e /CurlingVR/data/sensorValues d -37.084146
+dd20bf22.19c1a47a /CurlingVR/data/rawSensorValues s "   760"
+dd20bf22.19de69ad /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.19ffa3b9 /CurlingVR/data/sensorValues d -30.847122
+dd20bf22.1a19439d /CurlingVR/data/rawSensorValues s "   794"
+dd20bf22.1a3a7daa /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.1a49906c /CurlingVR/data/sensorValues d -17.933087
+dd20bf22.1a68b19a /CurlingVR/data/rawSensorValues s "   868"
+dd20bf22.1a8954a7 /CurlingVR/data/frequencyValue d 9.397526
+dd20bf22.1aa25d8d /CurlingVR/data/sensorValues d -2.646748
+dd20bf22.1ad17c5e /CurlingVR/data/rawSensorValues s "   906"
+dd20bf22.1af60e0e /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.1b0f5a0f /CurlingVR/data/sensorValues d 4.739026
+dd20bf22.1b43a647 /CurlingVR/data/rawSensorValues s "   843"
+dd20bf22.1b56da01 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.32fe8251 /CurlingVR/data/sensorValues d 9.236012
+dd20bf22.332a0663 /CurlingVR/data/rawSensorValues s "   822"
+dd20bf22.3336bd2b /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.335d0310 /CurlingVR/data/sensorValues d 28.974590
+dd20bf22.336ac647 /CurlingVR/data/rawSensorValues s "   981"
+dd20bf22.337f6b19 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.3395f676 /CurlingVR/data/sensorValues d 44.651689
+dd20bf22.33b927d4 /CurlingVR/data/rawSensorValues s "   962"
+dd20bf22.33cb5fe5 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.33df6db9 /CurlingVR/data/sensorValues d 57.882333
+dd20bf22.3401d5c2 /CurlingVR/data/rawSensorValues s "   955"
+dd20bf22.34141e9a /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.344c1658 /CurlingVR/data/sensorValues d 67.434953
+dd20bf22.3459641f /CurlingVR/data/rawSensorValues s "   933"
+dd20bf22.347bdcef /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.348beb5a /CurlingVR/data/sensorValues d 73.997904
+dd20bf22.34acf312 /CurlingVR/data/rawSensorValues s "   914"
+dd20bf22.34ca1cee /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.34ef34d6 /CurlingVR/data/sensorValues d 78.583494
+dd20bf22.34f483ca /CurlingVR/data/rawSensorValues s "   902"
+dd20bf22.35146e4b /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.352a94fe /CurlingVR/data/sensorValues d 81.303672
+dd20bf22.3545f9df /CurlingVR/data/rawSensorValues s "   889"
+dd20bf22.355b8993 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4d2deca2 /CurlingVR/data/sensorValues d 82.359047
+dd20bf22.4d3dfb0d /CurlingVR/data/rawSensorValues s "   876"
+dd20bf22.4d6c93a6 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4d73a797 /CurlingVR/data/sensorValues d 81.930027
+dd20bf22.4d9d66ad /CurlingVR/data/rawSensorValues s "   863"
+dd20bf22.4dabd1aa /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4dc0db26 /CurlingVR/data/sensorValues d 77.901840
+dd20bf22.4de9d0e9 /CurlingVR/data/rawSensorValues s "   827"
+dd20bf22.4df1cfbb /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4e1bb05f /CurlingVR/data/sensorValues d 70.670824
+dd20bf22.4e26809c /CurlingVR/data/rawSensorValues s "   791"
+dd20bf22.4e45803c /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4e604e1e /CurlingVR/data/sensorValues d 59.900317
+dd20bf22.4e8ab4f9 /CurlingVR/data/rawSensorValues s "   748"
+dd20bf22.4eb9d3cb /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4ed6238d /CurlingVR/data/sensorValues d 47.075896
+dd20bf22.4eeec7c9 /CurlingVR/data/rawSensorValues s "   716"
+dd20bf22.4f0be0de /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.4f25a250 /CurlingVR/data/sensorValues d 34.018260
+dd20bf22.4f3f4234 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf22.4f553692 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.6759ccfa /CurlingVR/data/sensorValues d 21.755889
+dd20bf22.676d97b2 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf22.67864cb5 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.679c842f /CurlingVR/data/sensorValues d 10.214360
+dd20bf22.67b927d3 /CurlingVR/data/rawSensorValues s "   688"
+dd20bf22.67dc37a3 /CurlingVR/data/frequencyValue d 5.349686
+dd20bf22.67ddca4a /CurlingVR/data/sensorValues d -0.079357
+dd20bf22.68250720 /CurlingVR/data/rawSensorValues s "   688"
+dd20bf22.6836976b /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.684f5d34 /CurlingVR/data/sensorValues d -9.349979
+dd20bf22.686cdaf4 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf22.68813cab /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.68975297 /CurlingVR/data/sensorValues d -17.699753
+dd20bf22.68b46bac /CurlingVR/data/rawSensorValues s "   686"
+dd20bf22.68cc0378 /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.68e4a7b4 /CurlingVR/data/sensorValues d -23.834702
+dd20bf22.69028a1d /CurlingVR/data/rawSensorValues s "   699"
+dd20bf22.691f6017 /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.6931a8ef /CurlingVR/data/sensorValues d -29.277107
+dd20bf22.694a0a0e /CurlingVR/data/rawSensorValues s "   699"
+dd20bf22.69758e21 /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.69a66127 /CurlingVR/data/sensorValues d -29.939013
+dd20bf22.69c0fcb4 /CurlingVR/data/rawSensorValues s "   741"
+dd20bf22.69d451fb /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.818ba40d /CurlingVR/data/sensorValues d -27.528832
+dd20bf22.819f6ec5 /CurlingVR/data/rawSensorValues s "   771"
+dd20bf22.81bf26f1 /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.81d3bafd /CurlingVR/data/sensorValues d -26.442832
+dd20bf22.81e54b48 /CurlingVR/data/rawSensorValues s "   760"
+dd20bf22.820fc2eb /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.82243568 /CurlingVR/data/sensorValues d -26.042763
+dd20bf22.8238da3b /CurlingVR/data/rawSensorValues s "   754"
+dd20bf22.8264b230 /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.826fe718 /CurlingVR/data/sensorValues d -14.869259
+dd20bf22.8295a6c5 /CurlingVR/data/rawSensorValues s "   863"
+dd20bf22.82a0dbac /CurlingVR/data/frequencyValue d 3.949067
+dd20bf22.82c9c0a8 /CurlingVR/data/sensorValues d -0.938797
+dd20bf22.82d82ba5 /CurlingVR/data/rawSensorValues s "   903"
+dd20bf22.82f4be82 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.83150dad /CurlingVR/data/sensorValues d 11.573183
+dd20bf22.8320d993 /CurlingVR/data/rawSensorValues s "   904"
+dd20bf22.834a01ab /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.835579ae /CurlingVR/data/sensorValues d 22.709784
+dd20bf22.837caa75 /CurlingVR/data/rawSensorValues s "   904"
+dd20bf22.83895075 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.83a2be05 /CurlingVR/data/sensorValues d 31.124785
+dd20bf22.83befcff /CurlingVR/data/rawSensorValues s "   889"
+dd20bf22.83d8383a /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9bbdcf02 /CurlingVR/data/sensorValues d 38.096427
+dd20bf22.9bbf50e2 /CurlingVR/data/rawSensorValues s "   884"
+dd20bf22.9be86833 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9bf62b6a /CurlingVR/data/sensorValues d 44.270063
+dd20bf22.9c0f12c1 /CurlingVR/data/rawSensorValues s "   884"
+dd20bf22.9c2f405e /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9c41cc52 /CurlingVR/data/sensorValues d 46.360503
+dd20bf22.9c699417 /CurlingVR/data/rawSensorValues s "   850"
+dd20bf22.9c77ab31 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9c9c2c1a /CurlingVR/data/sensorValues d 45.998725
+dd20bf22.9caa21a6 /CurlingVR/data/rawSensorValues s "   828"
+dd20bf22.9ccb7d40 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9cdde7a6 /CurlingVR/data/sensorValues d 42.264381
+dd20bf22.9d08a265 /CurlingVR/data/rawSensorValues s "   794"
+dd20bf22.9d0a02b7 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9d207d4d /CurlingVR/data/sensorValues d 37.013817
+dd20bf22.9d374bc6 /CurlingVR/data/rawSensorValues s "   775"
+dd20bf22.9d63fdd5 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.9d7a13c1 /CurlingVR/data/sensorValues d 27.150550
+dd20bf22.9d99aa5f /CurlingVR/data/rawSensorValues s "   723"
+dd20bf22.9dbf487f /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.b5e97d06 /CurlingVR/data/sensorValues d 17.048229
+dd20bf22.b5f138bc /CurlingVR/data/rawSensorValues s "   710"
+dd20bf22.b61b9f98 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.b622f6a4 /CurlingVR/data/sensorValues d 8.030013
+dd20bf22.b64a7b4d /CurlingVR/data/rawSensorValues s "   710"
+dd20bf22.b657eaa1 /CurlingVR/data/frequencyValue d 7.476584
+dd20bf22.b66b6177 /CurlingVR/data/sensorValues d -1.300248
+dd20bf22.b691c8ea /CurlingVR/data/rawSensorValues s "   697"
+dd20bf22.b6a4ca4e /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.b6b6e0d1 /CurlingVR/data/sensorValues d -9.414210
+dd20bf22.b6ce24ba /CurlingVR/data/rawSensorValues s "   699"
+dd20bf22.b6ee5257 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.b704cced /CurlingVR/data/sensorValues d -17.624336
+dd20bf22.b720d993 /CurlingVR/data/rawSensorValues s "   689"
+dd20bf22.b7374362 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.b764388e /CurlingVR/data/sensorValues d -25.416934
+dd20bf22.b78305d8 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf22.b7b384fc /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.b7e4bcac /CurlingVR/data/sensorValues d -31.344722
+dd20bf22.b7e61cff /CurlingVR/data/rawSensorValues s "   694"
+dd20bf22.b825071f /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.b83e3193 /CurlingVR/data/sensorValues d -36.892036
+dd20bf22.b85564b5 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf22.b868fd18 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d0215b99 /CurlingVR/data/sensorValues d -41.302801
+dd20bf22.d0232095 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf22.d03ba343 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d054690d /CurlingVR/data/sensorValues d -45.191490
+dd20bf22.d064cb5a /CurlingVR/data/rawSensorValues s "   696"
+dd20bf22.d08cd63b /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d0985f06 /CurlingVR/data/sensorValues d -46.829120
+dd20bf22.d0c07aae /CurlingVR/data/rawSensorValues s "   714"
+dd20bf22.d0c20d55 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d0ec95bf /CurlingVR/data/sensorValues d -43.093420
+dd20bf22.d0f92af8 /CurlingVR/data/rawSensorValues s "   766"
+dd20bf22.d11f70dd /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d12135d9 /CurlingVR/data/sensorValues d -35.464817
+dd20bf22.d168943d /CurlingVR/data/rawSensorValues s "   809"
+dd20bf22.d16a26e4 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d1974e64 /CurlingVR/data/sensorValues d -28.632267
+dd20bf22.d19dba8f /CurlingVR/data/rawSensorValues s "   809"
+dd20bf22.d1c714fc /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d1c8eabf /CurlingVR/data/sensorValues d -24.990833
+dd20bf22.d1f1cfba /CurlingVR/data/rawSensorValues s "   784"
+dd20bf22.d1f86e3a /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.d2240313 /CurlingVR/data/sensorValues d -21.523325
+dd20bf22.d22a8005 /CurlingVR/data/rawSensorValues s "   786"
+dd20bf22.d240d90d /CurlingVR/data/frequencyValue d 5.776737
+dd20bf22.ea46bf00 /CurlingVR/data/sensorValues d 5.446749
+dd20bf22.ea564733 /CurlingVR/data/rawSensorValues s "  1027"
+dd20bf22.ea72ead8 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf22.ea93293c /CurlingVR/data/sensorValues d 23.135638
+dd20bf22.eaa7ce0e /CurlingVR/data/rawSensorValues s "   963"
+dd20bf22.eabef06a /CurlingVR/data/frequencyValue d 5.356737
+dd20bf22.eae7924a /CurlingVR/data/sensorValues d 37.685302
+dd20bf22.eaf5fd46 /CurlingVR/data/rawSensorValues s "   951"
+dd20bf22.eb1c432b /CurlingVR/data/frequencyValue d 5.356737
+dd20bf22.eb1e0827 /CurlingVR/data/sensorValues d 50.611368
+dd20bf22.eb485e3c /CurlingVR/data/rawSensorValues s "   951"
+dd20bf22.eb53b4b2 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf22.eb7aa25c /CurlingVR/data/sensorValues d 58.612881
+dd20bf22.eb88765a /CurlingVR/data/rawSensorValues s "   916"
+dd20bf22.eba37691 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf22.ebba4509 /CurlingVR/data/sensorValues d 64.792616
+dd20bf22.ebcf0b6a /CurlingVR/data/rawSensorValues s "   907"
+dd20bf22.ebefe0cd /CurlingVR/data/frequencyValue d 5.356737
+dd20bf22.ec1d29db /CurlingVR/data/sensorValues d 69.144967
+dd20bf22.ec473cd4 /CurlingVR/data/rawSensorValues s "   896"
+dd20bf22.ec58cd1f /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.04769ec2 /CurlingVR/data/sensorValues d 69.983767
+dd20bf23.04867ad8 /CurlingVR/data/rawSensorValues s "   866"
+dd20bf23.049ca18b /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.04b99913 /CurlingVR/data/sensorValues d 68.681155
+dd20bf23.04d98394 /CurlingVR/data/rawSensorValues s "   846"
+dd20bf23.04e22a2c /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.0504f6df /CurlingVR/data/sensorValues d 65.075846
+dd20bf23.0513a4f8 /CurlingVR/data/rawSensorValues s "   822"
+dd20bf23.0539eadd /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.0543aeab /CurlingVR/data/sensorValues d 58.234439
+dd20bf23.056eac85 /CurlingVR/data/rawSensorValues s "   786"
+dd20bf23.057774ab /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.05a72a7b /CurlingVR/data/sensorValues d 48.516512
+dd20bf23.05a9003e /CurlingVR/data/rawSensorValues s "   750"
+dd20bf23.05cfdd22 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.05d6f112 /CurlingVR/data/sensorValues d 39.809322
+dd20bf23.05ff609d /CurlingVR/data/rawSensorValues s "   750"
+dd20bf23.060114d2 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.06311e85 /CurlingVR/data/sensorValues d 32.011406
+dd20bf23.0657fb69 /CurlingVR/data/rawSensorValues s "   750"
+dd20bf23.0669ced0 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.0695d91a /CurlingVR/data/sensorValues d 25.031452
+dd20bf23.069c560c /CurlingVR/data/rawSensorValues s "   750"
+dd20bf23.06b228dc /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.1ea4fca4 /CurlingVR/data/sensorValues d 18.787282
+dd20bf23.1eb68cef /CurlingVR/data/rawSensorValues s "   750"
+dd20bf23.1ede43ed /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.1eebe596 /CurlingVR/data/sensorValues d 6.670938
+dd20bf23.1f157257 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf23.1f20d994 /CurlingVR/data/frequencyValue d 5.356737
+dd20bf23.1f4aba38 /CurlingVR/data/sensorValues d -4.230394
+dd20bf23.1f5e0f7f /CurlingVR/data/rawSensorValues s "   683"
+dd20bf23.1f82a12f /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.1f84449d /CurlingVR/data/sensorValues d -14.533251
+dd20bf23.1fb3e9a6 /CurlingVR/data/rawSensorValues s "   677"
+dd20bf23.1fc382a1 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.1fd640e9 /CurlingVR/data/sensorValues d -22.114564
+dd20bf23.1ff01322 /CurlingVR/data/rawSensorValues s "   693"
+dd20bf23.202a23bf /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.203126e9 /CurlingVR/data/sensorValues d -28.847399
+dd20bf23.2058255a /CurlingVR/data/rawSensorValues s "   693"
+dd20bf23.2065c704 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.2077ff14 /CurlingVR/data/sensorValues d -35.411507
+dd20bf23.209613d2 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf23.20ac7da1 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.20f0a5ef /CurlingVR/data/sensorValues d -39.046716
+dd20bf23.21055b89 /CurlingVR/data/rawSensorValues s "   709"
+dd20bf23.213b9f12 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.38cf0739 /CurlingVR/data/sensorValues d -40.167641
+dd20bf23.3921bc12 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.392fc265 /CurlingVR/data/sensorValues d -37.661217
+dd20bf23.394280ad /CurlingVR/data/rawSensorValues s "   765"
+dd20bf23.3970f7b9 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.3a013660 /CurlingVR/data/sensorValues d -36.281332
+dd20bf23.3a027525 /CurlingVR/data/rawSensorValues s "   756"
+dd20bf23.3a033e78 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.3a0407cc /CurlingVR/data/sensorValues d -34.520573
+dd20bf23.3a04c058 /CurlingVR/data/rawSensorValues s "   761"
+dd20bf23.3a34eb99 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.3a366d7a /CurlingVR/data/sensorValues d -27.076217
+dd20bf23.3a5e6794 /CurlingVR/data/rawSensorValues s "   820"
+dd20bf23.3a5fc7e6 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.3a8c5868 /CurlingVR/data/sensorValues d -11.803219
+dd20bf23.3a9d8409 /CurlingVR/data/rawSensorValues s "   907"
+dd20bf23.3abfca85 /CurlingVR/data/frequencyValue d 4.413626
+dd20bf23.3ac8711d /CurlingVR/data/sensorValues d 0.727826
+dd20bf23.3afbb0e5 /CurlingVR/data/rawSensorValues s "   896"
+dd20bf23.3b05faeb /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.530728e8 /CurlingVR/data/sensorValues d 9.120258
+dd20bf23.5308aac9 /CurlingVR/data/rawSensorValues s "   868"
+dd20bf23.5318b934 /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.533d188e /CurlingVR/data/sensorValues d 13.420796
+dd20bf23.534c7f34 /CurlingVR/data/rawSensorValues s "   836"
+dd20bf23.5377e1b8 /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.538012df /CurlingVR/data/sensorValues d 17.239154
+dd20bf23.53ab649c /CurlingVR/data/rawSensorValues s "   836"
+dd20bf23.53acc4ef /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.53d77fad /CurlingVR/data/sensorValues d 17.852071
+dd20bf23.53d91255 /CurlingVR/data/rawSensorValues s "   808"
+dd20bf23.5408d8ec /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.540fecdc /CurlingVR/data/sensorValues d 16.004329
+dd20bf23.543e20cc /CurlingVR/data/rawSensorValues s "   784"
+dd20bf23.5445132f /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.5467ad8d /CurlingVR/data/sensorValues d 13.450986
+dd20bf23.54737974 /CurlingVR/data/rawSensorValues s "   775"
+dd20bf23.54981bea /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.54aa21a6 /CurlingVR/data/sensorValues d 11.162507
+dd20bf23.54d8665d /CurlingVR/data/rawSensorValues s "   775"
+dd20bf23.54f0c77d /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.552599ed /CurlingVR/data/sensorValues d 5.944309
+dd20bf23.55421c03 /CurlingVR/data/rawSensorValues s "   743"
+dd20bf23.5556c0d6 /CurlingVR/data/frequencyValue d 6.262436
+dd20bf23.6d26e978 /CurlingVR/data/sensorValues d -0.790049
+dd20bf23.6d3293d0 /CurlingVR/data/rawSensorValues s "   722"
+dd20bf23.6d5b4677 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6d6b97fe /CurlingVR/data/sensorValues d -7.581572
+dd20bf23.6d934efc /CurlingVR/data/rawSensorValues s "   714"
+dd20bf23.6da35d67 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6db7cfe5 /CurlingVR/data/sensorValues d -13.625238
+dd20bf23.6de2584e /CurlingVR/data/rawSensorValues s "   714"
+dd20bf23.6df4d37b /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6e0bc382 /CurlingVR/data/sensorValues d -20.679519
+dd20bf23.6e2d5171 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf23.6e33eff1 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6e734f82 /CurlingVR/data/sensorValues d -26.944204
+dd20bf23.6e9f383e /CurlingVR/data/rawSensorValues s "   697"
+dd20bf23.6eacb859 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6ed2ed77 /CurlingVR/data/sensorValues d -32.301094
+dd20bf23.6ede43ed /CurlingVR/data/rawSensorValues s "   699"
+dd20bf23.6f0995aa /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6f107746 /CurlingVR/data/sensorValues d -38.229782
+dd20bf23.6f395c41 /CurlingVR/data/rawSensorValues s "   687"
+dd20bf23.6f47e8cc /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.6f6ec5b0 /CurlingVR/data/sensorValues d -42.682013
+dd20bf23.6f82b1f6 /CurlingVR/data/rawSensorValues s "   695"
+dd20bf23.6f9d3cbb /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.875ed8d2 /CurlingVR/data/sensorValues d -46.408268
+dd20bf23.876d5496 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf23.87a3fcc9 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.87b71fbb /CurlingVR/data/sensorValues d -49.681954
+dd20bf23.87ca85ca /CurlingVR/data/rawSensorValues s "   697"
+dd20bf23.87f1843b /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.87fbbd7a /CurlingVR/data/sensorValues d -51.361126
+dd20bf23.88268900 /CurlingVR/data/rawSensorValues s "   709"
+dd20bf23.88301a79 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.8851654c /CurlingVR/data/sensorValues d -49.736907
+dd20bf23.885f17bd /CurlingVR/data/rawSensorValues s "   740"
+dd20bf23.8886cebb /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.88b47c73 /CurlingVR/data/sensorValues d -44.774991
+dd20bf23.88def416 /CurlingVR/data/rawSensorValues s "   775"
+dd20bf23.88e043a1 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.89121250 /CurlingVR/data/sensorValues d -37.141149
+dd20bf23.8913a4f7 /CurlingVR/data/rawSensorValues s "   807"
+dd20bf23.8943aeaa /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.894f483c /CurlingVR/data/sensorValues d -24.263255
+dd20bf23.89799e51 /CurlingVR/data/rawSensorValues s "   868"
+dd20bf23.8987724f /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.a183b601 /CurlingVR/data/sensorValues d -21.575788
+dd20bf23.a191ff70 /CurlingVR/data/rawSensorValues s "   779"
+dd20bf23.a1ad85df /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.a1c842f9 /CurlingVR/data/sensorValues d -19.159679
+dd20bf23.a1dc1e78 /CurlingVR/data/rawSensorValues s "   779"
+dd20bf23.a1ee99a5 /CurlingVR/data/frequencyValue d 8.310489
+dd20bf23.a217a02f /CurlingVR/data/sensorValues d -3.523766
+dd20bf23.a2273929 /CurlingVR/data/rawSensorValues s "   915"
+dd20bf23.a252ce02 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.a261ae70 /CurlingVR/data/sensorValues d 11.005356
+dd20bf23.a285a921 /CurlingVR/data/rawSensorValues s "   921"
+dd20bf23.a2935b91 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.a2a7ac81 /CurlingVR/data/sensorValues d 19.781799
+dd20bf23.a2b93ccc /CurlingVR/data/rawSensorValues s "   879"
+dd20bf23.a2db2f65 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.a304cced /CurlingVR/data/sensorValues d 27.482827
+dd20bf23.a308aac8 /CurlingVR/data/rawSensorValues s "   878"
+dd20bf23.a320ea5a /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.a33abc93 /CurlingVR/data/sensorValues d 31.643961
+dd20bf23.a34a87e2 /CurlingVR/data/rawSensorValues s "   851"
+dd20bf23.a37be121 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.a3936826 /CurlingVR/data/sensorValues d 34.230887
+dd20bf23.a3aecd06 /CurlingVR/data/rawSensorValues s "   840"
+dd20bf23.a3c99ae8 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bbb84db9 /CurlingVR/data/sensorValues d 35.214607
+dd20bf23.bbca2120 /CurlingVR/data/rawSensorValues s "   827"
+dd20bf23.bbf04577 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bbf1c757 /CurlingVR/data/sensorValues d 32.986887
+dd20bf23.bc1626b2 /CurlingVR/data/rawSensorValues s "   796"
+dd20bf23.bc2c7fba /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bc4d0139 /CurlingVR/data/sensorValues d 29.385002
+dd20bf23.bc588a04 /CurlingVR/data/rawSensorValues s "   780"
+dd20bf23.bc7e0695 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bc83cafa /CurlingVR/data/sensorValues d 24.562337
+dd20bf23.bcad03d8 /CurlingVR/data/rawSensorValues s "   764"
+dd20bf23.bcb47c73 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bcf0307e /CurlingVR/data/sensorValues d 15.785780
+dd20bf23.bcf1c325 /CurlingVR/data/rawSensorValues s "   719"
+dd20bf23.bd22fad6 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bd247cb6 /CurlingVR/data/sensorValues d 6.960082
+dd20bf23.bd4c8797 /CurlingVR/data/rawSensorValues s "   709"
+dd20bf23.bd54c985 /CurlingVR/data/frequencyValue d 4.406041
+dd20bf23.bd7efe0c /CurlingVR/data/sensorValues d -1.801575
+dd20bf23.bd85dfa7 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf23.bdb62c76 /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.bde3c967 /CurlingVR/data/sensorValues d -6.339409
+dd20bf23.be0913a4 /CurlingVR/data/rawSensorValues s "   733"
+dd20bf23.be1511df /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d5ea8975 /CurlingVR/data/sensorValues d -13.742281
+dd20bf23.d5ec1c1c /CurlingVR/data/rawSensorValues s "   699"
+dd20bf23.d6006d0c /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d64c2f82 /CurlingVR/data/sensorValues d -21.116497
+dd20bf23.d65ce5b3 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf23.d68576cc /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d68e92d4 /CurlingVR/data/sensorValues d -27.368807
+dd20bf23.d6b2f22f /CurlingVR/data/rawSensorValues s "   694"
+dd20bf23.d6b990af /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d6e2eb1b /CurlingVR/data/sensorValues d -32.912246
+dd20bf23.d6eee956 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf23.d7395c41 /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d7653436 /CurlingVR/data/sensorValues d -36.135538
+dd20bf23.d766c6dd /CurlingVR/data/rawSensorValues s "   711"
+dd20bf23.d7a89330 /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d7afa721 /CurlingVR/data/sensorValues d -35.506356
+dd20bf23.d7dd00f6 /CurlingVR/data/rawSensorValues s "   746"
+dd20bf23.d7e8ab4e /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.d80ffda3 /CurlingVR/data/sensorValues d -34.910248
+dd20bf23.d81b4351 /CurlingVR/data/rawSensorValues s "   746"
+dd20bf23.d835ac89 /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.f015c208 /CurlingVR/data/sensorValues d -27.117206
+dd20bf23.f029174f /CurlingVR/data/rawSensorValues s "   819"
+dd20bf23.f049fd79 /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.f093532d /CurlingVR/data/sensorValues d -21.433488
+dd20bf23.f0a5df21 /CurlingVR/data/rawSensorValues s "   806"
+dd20bf23.f0bc169b /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.f0e21964 /CurlingVR/data/sensorValues d -16.347862
+dd20bf23.f0f312b0 /CurlingVR/data/rawSensorValues s "   806"
+dd20bf23.f10c1b96 /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.f12178f5 /CurlingVR/data/sensorValues d -15.364222
+dd20bf23.f14a6eb8 /CurlingVR/data/rawSensorValues s "   770"
+dd20bf23.f151611a /CurlingVR/data/frequencyValue d 6.245874
+dd20bf23.f176ddab /CurlingVR/data/sensorValues d -0.909434
+dd20bf23.f180c308 /CurlingVR/data/rawSensorValues s "   907"
+dd20bf23.f1aeb3dc /CurlingVR/data/frequencyValue d 5.792662
+dd20bf23.f1bc87da /CurlingVR/data/sensorValues d 12.762692
+dd20bf23.f1d2391c /CurlingVR/data/rawSensorValues s "   915"
+dd20bf23.f20029f0 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf23.f219fc29 /CurlingVR/data/sensorValues d 21.862793
+dd20bf23.f2483019 /CurlingVR/data/rawSensorValues s "   884"
+dd20bf23.f25eaaaf /CurlingVR/data/frequencyValue d 5.792662
+dd20bf23.f2765342 /CurlingVR/data/sensorValues d 27.276120
+dd20bf23.f28a504f /CurlingVR/data/rawSensorValues s "   857"
+dd20bf23.f2a875d4 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0a501e25 /CurlingVR/data/sensorValues d 30.686119
+dd20bf24.0a634117 /CurlingVR/data/rawSensorValues s "   843"
+dd20bf24.0a75ff60 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0aafab53 /CurlingVR/data/sensorValues d 32.703742
+dd20bf24.0ab13dfb /CurlingVR/data/rawSensorValues s "   833"
+dd20bf24.0add69d2 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0aec5b07 /CurlingVR/data/sensorValues d 32.488740
+dd20bf24.0b110e45 /CurlingVR/data/rawSensorValues s "   813"
+dd20bf24.0b17df19 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0b43c7d5 /CurlingVR/data/sensorValues d 32.264684
+dd20bf24.0b52977c /CurlingVR/data/rawSensorValues s "   813"
+dd20bf24.0b6709fa /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0b8fcd67 /CurlingVR/data/sensorValues d 29.953786
+dd20bf24.0b9dd3ba /CurlingVR/data/rawSensorValues s "   792"
+dd20bf24.0bbeb9e4 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0bcea6c1 /CurlingVR/data/sensorValues d 27.864822
+dd20bf24.0be175d1 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf24.0c0fcb4f /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0c115df6 /CurlingVR/data/sensorValues d 25.975690
+dd20bf24.0c3b6028 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf24.0c427418 /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.0c6b8b69 /CurlingVR/data/sensorValues d 24.266498
+dd20bf24.0c726d04 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf24.0c95182a /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.247e7c06 /CurlingVR/data/sensorValues d 13.512341
+dd20bf24.24800ead /CurlingVR/data/rawSensorValues s "   699"
+dd20bf24.24a72ead /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.24a8c154 /CurlingVR/data/sensorValues d 3.223875
+dd20bf24.24d50eba /CurlingVR/data/rawSensorValues s "   692"
+dd20bf24.24dc768d /CurlingVR/data/frequencyValue d 5.792662
+dd20bf24.25057d17 /CurlingVR/data/sensorValues d -6.540372
+dd20bf24.251654d5 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf24.253f4a98 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.25528f18 /CurlingVR/data/sensorValues d -14.936775
+dd20bf24.25652bd3 /CurlingVR/data/rawSensorValues s "   689"
+dd20bf24.257b30f8 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.25a708ed /CurlingVR/data/sensorValues d -22.403034
+dd20bf24.25a88acd /CurlingVR/data/rawSensorValues s "   689"
+dd20bf24.25d30270 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.25dc6195 /CurlingVR/data/sensorValues d -29.528068
+dd20bf24.260296b3 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf24.2628027d /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.26555c52 /CurlingVR/data/sensorValues d -35.153945
+dd20bf24.266f0cfd /CurlingVR/data/rawSensorValues s "   691"
+dd20bf24.2681669c /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.3ea161e4 /CurlingVR/data/sensorValues d -39.636447
+dd20bf24.3ec892ab /CurlingVR/data/rawSensorValues s "   696"
+dd20bf24.3ed2fe3e /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.3efac604 /CurlingVR/data/sensorValues d -43.491721
+dd20bf24.3f06f694 /CurlingVR/data/rawSensorValues s "   697"
+dd20bf24.58da6e75 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.58dc3371 /CurlingVR/data/sensorValues d -44.903277
+dd20bf24.5905c033 /CurlingVR/data/rawSensorValues s "   717"
+dd20bf24.5915bdd7 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.592dba4d /CurlingVR/data/sensorValues d -40.473071
+dd20bf24.5942b302 /CurlingVR/data/rawSensorValues s "   774"
+dd20bf24.595bab21 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.5975d13d /CurlingVR/data/sensorValues d -33.812284
+dd20bf24.59774256 /CurlingVR/data/rawSensorValues s "   801"
+dd20bf24.59ab5c39 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.59b1a6d6 /CurlingVR/data/sensorValues d -31.110711
+dd20bf24.59e1b089 /CurlingVR/data/rawSensorValues s "   768"
+dd20bf24.59e353f7 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.5a0c38f3 /CurlingVR/data/sensorValues d -28.870498
+dd20bf24.5a0dfdef /CurlingVR/data/rawSensorValues s "   766"
+dd20bf24.5a4abe69 /CurlingVR/data/frequencyValue d 5.344942
+dd20bf24.5a50f83f /CurlingVR/data/sensorValues d -2.194598
+dd20bf24.5a7f5e84 /CurlingVR/data/rawSensorValues s "  1015"
+dd20bf24.5a8f4b61 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5ab6390c /CurlingVR/data/sensorValues d 12.764823
+dd20bf24.5ac5b078 /CurlingVR/data/rawSensorValues s "   926"
+dd20bf24.5ade8709 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5af32bdb /CurlingVR/data/sensorValues d 24.892903
+dd20bf24.5b1001d5 /CurlingVR/data/rawSensorValues s "   914"
+dd20bf24.5b2ba9d1 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5b3f0fdf /CurlingVR/data/sensorValues d 35.278129
+dd20bf24.5b52b90a /CurlingVR/data/rawSensorValues s "   910"
+dd20bf24.5b8a6dac /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5bb6dca0 /CurlingVR/data/sensorValues d 40.932087
+dd20bf24.5bdf6db8 /CurlingVR/data/rawSensorValues s "   874"
+dd20bf24.5bedfa43 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5c036869 /CurlingVR/data/sensorValues d 44.146832
+dd20bf24.5c1b10fd /CurlingVR/data/rawSensorValues s "   856"
+dd20bf24.5c32873b /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5c47b245 /CurlingVR/data/sensorValues d 45.680023
+dd20bf24.5c5d206c /CurlingVR/data/rawSensorValues s "   843"
+dd20bf24.5c7bbb61 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5c9491f2 /CurlingVR/data/sensorValues d 43.139416
+dd20bf24.5caaa7de /CurlingVR/data/rawSensorValues s "   804"
+dd20bf24.5cc04859 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.5cddc618 /CurlingVR/data/sensorValues d 39.050595
+dd20bf24.5cf6cefe /CurlingVR/data/rawSensorValues s "   786"
+dd20bf24.5d141a68 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.72fdfc19 /CurlingVR/data/sensorValues d 32.992406
+dd20bf24.730ea182 /CurlingVR/data/rawSensorValues s "   762"
+dd20bf24.7333daf8 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.73358f2d /CurlingVR/data/sensorValues d 23.898567
+dd20bf24.73674d15 /CurlingVR/data/rawSensorValues s "   725"
+dd20bf24.7368dfbc /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.738c75c4 /CurlingVR/data/sensorValues d 14.287057
+dd20bf24.739d5e49 /CurlingVR/data/rawSensorValues s "   710"
+dd20bf24.73b267c6 /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.73c914b0 /CurlingVR/data/sensorValues d 4.718915
+dd20bf24.73f290ab /CurlingVR/data/rawSensorValues s "   700"
+dd20bf24.73fd933d /CurlingVR/data/frequencyValue d 6.244460
+dd20bf24.7423a6cd /CurlingVR/data/sensorValues d -4.702018
+dd20bf24.74314876 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf24.7458255a /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.747d4e09 /CurlingVR/data/sensorValues d -13.784368
+dd20bf24.74a19c9c /CurlingVR/data/rawSensorValues s "   684"
+dd20bf24.74c20d55 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.74cac4b4 /CurlingVR/data/sensorValues d -22.555957
+dd20bf24.74e52dec /CurlingVR/data/rawSensorValues s "   677"
+dd20bf24.74faacd9 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8d362e8f /CurlingVR/data/sensorValues d -30.249887
+dd20bf24.8d7a2488 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf24.8d7bb72f /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8da2a4da /CurlingVR/data/sensorValues d -37.074928
+dd20bf24.8db43525 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf24.8ddb9841 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8ddd5d3d /CurlingVR/data/sensorValues d -42.722965
+dd20bf24.8e077036 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf24.8e1a60d3 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8e3ef283 /CurlingVR/data/sensorValues d -46.722644
+dd20bf24.8e510906 /CurlingVR/data/rawSensorValues s "   692"
+dd20bf24.8e67839c /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8e8f190c /CurlingVR/data/sensorValues d -48.853634
+dd20bf24.8e9b0680 /CurlingVR/data/rawSensorValues s "   706"
+dd20bf24.8ed4a1ac /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8edff822 /CurlingVR/data/sensorValues d -49.020493
+dd20bf24.8efb6dc9 /CurlingVR/data/rawSensorValues s "   723"
+dd20bf24.8f38c542 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8f3a8a3e /CurlingVR/data/sensorValues d -41.992144
+dd20bf24.8f62b6ad /CurlingVR/data/rawSensorValues s "   795"
+dd20bf24.8f644955 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.8f8d4fde /CurlingVR/data/sensorValues d -35.687893
+dd20bf24.8f9bed30 /CurlingVR/data/rawSensorValues s "   795"
+dd20bf24.8fbcc292 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.a76b0962 /CurlingVR/data/sensorValues d -30.332117
+dd20bf24.a76cce5e /CurlingVR/data/rawSensorValues s "   792"
+dd20bf24.a798a653 /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.a7a8d64c /CurlingVR/data/sensorValues d -26.519789
+dd20bf24.a7cf1c31 /CurlingVR/data/rawSensorValues s "   782"
+dd20bf24.a7df2a9c /CurlingVR/data/frequencyValue d 5.776737
+dd20bf24.a809c3cd /CurlingVR/data/sensorValues d -1.910485
+dd20bf24.a8192a72 /CurlingVR/data/rawSensorValues s "   996"
+dd20bf24.a833a471 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.a84d76aa /CurlingVR/data/sensorValues d 12.197316
+dd20bf24.a8730402 /CurlingVR/data/rawSensorValues s "   917"
+dd20bf24.a8837717 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.a8983d78 /CurlingVR/data/sensorValues d 21.983169
+dd20bf24.a8c07aae /CurlingVR/data/rawSensorValues s "   889"
+dd20bf24.a8ca2db5 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.a8f42fe7 /CurlingVR/data/sensorValues d 30.086381
+dd20bf24.a8fb549e /CurlingVR/data/rawSensorValues s "   883"
+dd20bf24.a91dffc4 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.a93404e9 /CurlingVR/data/sensorValues d 34.603256
+dd20bf24.a9487767 /CurlingVR/data/rawSensorValues s "   856"
+dd20bf24.a9681ecc /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.a9698fe5 /CurlingVR/data/sensorValues d 36.514189
+dd20bf24.a98efbb0 /CurlingVR/data/rawSensorValues s "   835"
+dd20bf24.a9accd52 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c193f6c1 /CurlingVR/data/sensorValues d 35.210316
+dd20bf24.c195cc84 /CurlingVR/data/rawSensorValues s "   805"
+dd20bf24.c1c714fc /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c1ce4a7a /CurlingVR/data/sensorValues d 31.439354
+dd20bf24.c1fc9ff8 /CurlingVR/data/rawSensorValues s "   779"
+dd20bf24.c2084a50 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c23369b9 /CurlingVR/data/sensorValues d 25.473989
+dd20bf24.c23f034a /CurlingVR/data/rawSensorValues s "   753"
+dd20bf24.c25b20b7 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c285985a /CurlingVR/data/sensorValues d 19.341374
+dd20bf24.c2876e1d /CurlingVR/data/rawSensorValues s "   745"
+dd20bf24.c2b1b36b /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c2b37867 /CurlingVR/data/sensorValues d 11.679872
+dd20bf24.c2dc7ef0 /CurlingVR/data/rawSensorValues s "   723"
+dd20bf24.c2e44b6d /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c32cb640 /CurlingVR/data/sensorValues d 4.841795
+dd20bf24.c3353b4a /CurlingVR/data/rawSensorValues s "   723"
+dd20bf24.c360f1b1 /CurlingVR/data/frequencyValue d 5.771681
+dd20bf24.c366f932 /CurlingVR/data/sensorValues d -4.027774
+dd20bf24.c390539e /CurlingVR/data/rawSensorValues s "   695"
+dd20bf24.c391e646 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.dbc2b94c /CurlingVR/data/sensorValues d -12.718532
+dd20bf24.dbc48f0f /CurlingVR/data/rawSensorValues s "   687"
+dd20bf24.dbf0ed3c /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.dbfe9fac /CurlingVR/data/sensorValues d -21.340279
+dd20bf24.dc1376d4 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf24.dc35ce17 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.dc449dbd /CurlingVR/data/sensorValues d -29.000915
+dd20bf24.dc6f6943 /CurlingVR/data/rawSensorValues s "   678"
+dd20bf24.dc70fbea /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.dc9c2c1a /CurlingVR/data/sensorValues d -35.401541
+dd20bf24.dc9df116 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf24.dccc89b0 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.dd087010 /CurlingVR/data/sensorValues d -40.970097
+dd20bf24.dd192640 /CurlingVR/data/rawSensorValues s "   683"
+dd20bf24.dd43bf71 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.dd459534 /CurlingVR/data/sensorValues d -44.306711
+dd20bf24.dd819d22 /CurlingVR/data/rawSensorValues s "   699"
+dd20bf24.dd8d9b5d /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.ddabc0e2 /CurlingVR/data/sensorValues d -46.938327
+dd20bf24.ddc36975 /CurlingVR/data/rawSensorValues s "   702"
+dd20bf24.dddeacc8 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.ddf2a9d5 /CurlingVR/data/sensorValues d -49.236158
+dd20bf24.de314013 /CurlingVR/data/rawSensorValues s "   702"
+dd20bf24.de3a29c6 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.f5f06f68 /CurlingVR/data/sensorValues d -45.393290
+dd20bf24.f5f2020f /CurlingVR/data/rawSensorValues s "   761"
+dd20bf24.f61ed5ad /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.f6365cb2 /CurlingVR/data/sensorValues d -39.151901
+dd20bf24.f6493c88 /CurlingVR/data/rawSensorValues s "   789"
+dd20bf24.f670f387 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.f67924ae /CurlingVR/data/sensorValues d -29.987671
+dd20bf24.f6a30552 /CurlingVR/data/rawSensorValues s "   825"
+dd20bf24.f6b7cbb2 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.f717efdf /CurlingVR/data/sensorValues d -26.148355
+dd20bf24.f720535b /CurlingVR/data/rawSensorValues s "   781"
+dd20bf24.f74a6654 /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.f762d83b /CurlingVR/data/sensorValues d -23.196376
+dd20bf24.f76416ff /CurlingVR/data/rawSensorValues s "   776"
+dd20bf24.f796f21e /CurlingVR/data/frequencyValue d 6.232879
+dd20bf24.f79f44d3 /CurlingVR/data/sensorValues d 1.435033
+dd20bf24.f7c04c8a /CurlingVR/data/rawSensorValues s "   998"
+dd20bf24.f7d03967 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf24.f7e47990 /CurlingVR/data/sensorValues d 17.242184
+dd20bf24.f8016051 /CurlingVR/data/rawSensorValues s "   936"
+dd20bf24.f81b21c3 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf24.f8329801 /CurlingVR/data/sensorValues d 28.636114
+dd20bf25.10195cc8 /CurlingVR/data/rawSensorValues s "   909"
+dd20bf25.102656ab /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.103c18b4 /CurlingVR/data/sensorValues d 36.977469
+dd20bf25.1064ba94 /CurlingVR/data/rawSensorValues s "   891"
+dd20bf25.10664d3b /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.10958d9b /CurlingVR/data/sensorValues d 40.214639
+dd20bf25.10a643cb /CurlingVR/data/rawSensorValues s "   849"
+dd20bf25.10c0df58 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.10e62995 /CurlingVR/data/sensorValues d 40.682742
+dd20bf25.10f5f4e4 /CurlingVR/data/rawSensorValues s "   825"
+dd20bf25.111b2e59 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.111d041c /CurlingVR/data/sensorValues d 41.059140
+dd20bf25.11490e66 /CurlingVR/data/rawSensorValues s "   825"
+dd20bf25.1171f362 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.11784ec6 /CurlingVR/data/sensorValues d 37.492451
+dd20bf25.119b5e95 /CurlingVR/data/rawSensorValues s "   786"
+dd20bf25.11aea316 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.11eabbcb /CurlingVR/data/sensorValues d 31.307039
+dd20bf25.11f15a4a /CurlingVR/data/rawSensorValues s "   756"
+dd20bf25.1207e5a7 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.121db877 /CurlingVR/data/sensorValues d 24.972529
+dd20bf25.123a5c1c /CurlingVR/data/rawSensorValues s "   748"
+dd20bf25.12501e25 /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.2a45b291 /CurlingVR/data/sensorValues d 16.828509
+dd20bf25.2a4cf8d6 /CurlingVR/data/rawSensorValues s "   723"
+dd20bf25.2a7620ee /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.2a8eb463 /CurlingVR/data/sensorValues d 9.555358
+dd20bf25.2aa38b8a /CurlingVR/data/rawSensorValues s "   723"
+dd20bf25.2ab7457b /CurlingVR/data/frequencyValue d 5.371693
+dd20bf25.2ae1deac /CurlingVR/data/sensorValues d 1.283426
+dd20bf25.2aec0724 /CurlingVR/data/rawSensorValues s "   705"
+dd20bf25.2b061c79 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.2b1c7581 /CurlingVR/data/sensorValues d -6.781150
+dd20bf25.2b2e6a76 /CurlingVR/data/rawSensorValues s "   698"
+dd20bf25.2b53f7ce /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.2b55bcca /CurlingVR/data/sensorValues d -14.355905
+dd20bf25.2b7e0ac7 /CurlingVR/data/rawSensorValues s "   694"
+dd20bf25.2b8ef34d /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.2ba8d64d /CurlingVR/data/sensorValues d -21.882656
+dd20bf25.2bc99ae8 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf25.2be34b94 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.2bf8ec0f /CurlingVR/data/sensorValues d -28.270109
+dd20bf25.2c1461b6 /CurlingVR/data/rawSensorValues s "   689"
+dd20bf25.2c2cf52b /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.2c47f561 /CurlingVR/data/sensorValues d -33.834059
+dd20bf25.2c5b9e8c /CurlingVR/data/rawSensorValues s "   690"
+dd20bf25.2c729f59 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.4473bc8f /CurlingVR/data/sensorValues d -38.163705
+dd20bf25.447c5260 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf25.44a3b57c /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.44b00799 /CurlingVR/data/sensorValues d -41.290255
+dd20bf25.44d6b228 /CurlingVR/data/rawSensorValues s "   703"
+dd20bf25.44e703af /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.45093964 /CurlingVR/data/sensorValues d -43.935722
+dd20bf25.4519157a /CurlingVR/data/rawSensorValues s "   704"
+dd20bf25.45416377 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.4553cddd /CurlingVR/data/sensorValues d -46.149896
+dd20bf25.457a13c2 /CurlingVR/data/rawSensorValues s "   705"
+dd20bf25.45855970 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.45be7f2b /CurlingVR/data/sensorValues d -45.601576
+dd20bf25.45c4c9c8 /CurlingVR/data/rawSensorValues s "   730"
+dd20bf25.45f3c70c /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.4602fb5c /CurlingVR/data/sensorValues d -41.998421
+dd20bf25.462dd7a9 /CurlingVR/data/rawSensorValues s "   761"
+dd20bf25.462f7b17 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.4656ffc0 /CurlingVR/data/sensorValues d -35.677012
+dd20bf25.4658c4bc /CurlingVR/data/rawSensorValues s "   792"
+dd20bf25.4684167a /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.4685caaf /CurlingVR/data/sensorValues d -24.959959
+dd20bf25.46b1e5c0 /CurlingVR/data/rawSensorValues s "   843"
+dd20bf25.46b851eb /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.5f132723 /CurlingVR/data/sensorValues d -19.445105
+dd20bf25.5f1843c3 /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.5f4d594e /CurlingVR/data/rawSensorValues s "   795"
+dd20bf25.5f546d3f /CurlingVR/data/frequencyValue d 6.259595
+dd20bf25.5f80a9de /CurlingVR/data/sensorValues d 3.438280
+dd20bf25.5f826eda /CurlingVR/data/rawSensorValues s "   945"
+dd20bf25.5fac929a /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.5fc30d30 /CurlingVR/data/sensorValues d 22.322938
+dd20bf25.5fe76c8a /CurlingVR/data/rawSensorValues s "   968"
+dd20bf25.5ff0563e /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.601d6cf7 /CurlingVR/data/sensorValues d 38.631845
+dd20bf25.605f7c66 /CurlingVR/data/rawSensorValues s "   963"
+dd20bf25.6068db8b /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.607d1bb4 /CurlingVR/data/sensorValues d 51.342449
+dd20bf25.6098b2e9 /CurlingVR/data/rawSensorValues s "   945"
+dd20bf25.60b32ce8 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.60e8101e /CurlingVR/data/sensorValues d 60.636255
+dd20bf25.60eebf65 /CurlingVR/data/rawSensorValues s "   925"
+dd20bf25.611a21e9 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.78d7f0ec /CurlingVR/data/sensorValues d 66.876400
+dd20bf25.78d972cd /CurlingVR/data/rawSensorValues s "   905"
+dd20bf25.79105e1b /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.7939eadc /CurlingVR/data/sensorValues d 68.904493
+dd20bf25.7944fe36 /CurlingVR/data/rawSensorValues s "   870"
+dd20bf25.796e1586 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.796f9767 /CurlingVR/data/sensorValues d 70.642619
+dd20bf25.79992428 /CurlingVR/data/rawSensorValues s "   870"
+dd20bf25.79a22f69 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.79ceaf24 /CurlingVR/data/sensorValues d 66.180647
+dd20bf25.79dffc53 /CurlingVR/data/rawSensorValues s "   810"
+dd20bf25.7a044ae7 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.7a0fb224 /CurlingVR/data/sensorValues d 57.485849
+dd20bf25.7a49d388 /CurlingVR/data/rawSensorValues s "   763"
+dd20bf25.7a7620ee /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.7a99a62e /CurlingVR/data/sensorValues d 49.681298
+dd20bf25.7aa01259 /CurlingVR/data/rawSensorValues s "   763"
+dd20bf25.7ac22680 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.7ad7b634 /CurlingVR/data/sensorValues d 37.628762
+dd20bf25.7af28415 /CurlingVR/data/rawSensorValues s "   712"
+dd20bf25.7b05c896 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.7b2702a2 /CurlingVR/data/sensorValues d 25.268324
+dd20bf25.7b305100 /CurlingVR/data/rawSensorValues s "   696"
+dd20bf25.7b5c0767 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.93201040 /CurlingVR/data/sensorValues d 13.536905
+dd20bf25.93215fcb /CurlingVR/data/rawSensorValues s "   689"
+dd20bf25.934a1272 /CurlingVR/data/frequencyValue d 4.677176
+dd20bf25.9354d1e8 /CurlingVR/data/sensorValues d 2.278674
+dd20bf25.938a5ce5 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf25.9394c878 /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.93b9bed2 /CurlingVR/data/sensorValues d -7.259689
+dd20bf25.93c4e2f2 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf25.93ecfe9a /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.93fb3742 /CurlingVR/data/sensorValues d -16.147110
+dd20bf25.9424c404 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf25.943a860d /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.945caafb /CurlingVR/data/sensorValues d -23.851656
+dd20bf25.946b484c /CurlingVR/data/rawSensorValues s "   684"
+dd20bf25.948d9f8f /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.94a01abc /CurlingVR/data/sensorValues d -29.900554
+dd20bf25.94c5436a /CurlingVR/data/rawSensorValues s "   692"
+dd20bf25.94d2c386 /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.94ec95bf /CurlingVR/data/sensorValues d -35.260222
+dd20bf25.9506bbdb /CurlingVR/data/rawSensorValues s "   692"
+dd20bf25.9526c7ea /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.952aa5c5 /CurlingVR/data/sensorValues d -37.723426
+dd20bf25.954f483c /CurlingVR/data/rawSensorValues s "   715"
+dd20bf25.956abde3 /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.ad38fffb /CurlingVR/data/sensorValues d -32.257417
+dd20bf25.ad3ac4f7 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf25.ad3b9f11 /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.ad77531d /CurlingVR/data/sensorValues d -27.354946
+dd20bf25.ad7d9db9 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf25.ad9c8c92 /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.adb47841 /CurlingVR/data/sensorValues d -22.959489
+dd20bf25.adcee179 /CurlingVR/data/rawSensorValues s "   792"
+dd20bf25.ade43ed8 /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.adf8f472 /CurlingVR/data/sensorValues d -17.535177
+dd20bf25.ae14ad35 /CurlingVR/data/rawSensorValues s "   807"
+dd20bf25.ae2d40aa /CurlingVR/data/frequencyValue d 5.364740
+dd20bf25.ae5870d9 /CurlingVR/data/sensorValues d 2.957420
+dd20bf25.ae646f14 /CurlingVR/data/rawSensorValues s "   965"
+dd20bf25.ae983514 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.aec4d65d /CurlingVR/data/sensorValues d 21.213366
+dd20bf25.aed80a17 /CurlingVR/data/rawSensorValues s "   965"
+dd20bf25.aeed3521 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.af012167 /CurlingVR/data/sensorValues d 31.716201
+dd20bf25.af161a1d /CurlingVR/data/rawSensorValues s "   907"
+dd20bf25.af38b47b /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c761cbcc /CurlingVR/data/sensorValues d 39.854510
+dd20bf25.c76390c8 /CurlingVR/data/rawSensorValues s "   895"
+dd20bf25.c7913e80 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c79dc2f3 /CurlingVR/data/sensorValues d 44.392890
+dd20bf25.c7c86cea /CurlingVR/data/rawSensorValues s "   868"
+dd20bf25.c7c9ff92 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c7f359fe /CurlingVR/data/sensorValues d 48.392193
+dd20bf25.c800431b /CurlingVR/data/rawSensorValues s "   868"
+dd20bf25.c829ae4e /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c839bcb9 /CurlingVR/data/sensorValues d 46.660180
+dd20bf25.c85c13fc /CurlingVR/data/rawSensorValues s "   815"
+dd20bf25.c8681237 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c885e3d9 /CurlingVR/data/sensorValues d 43.288296
+dd20bf25.c896aad1 /CurlingVR/data/rawSensorValues s "   797"
+dd20bf25.c8c5004e /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c8f5b1c7 /CurlingVR/data/sensorValues d 39.151659
+dd20bf25.c900f775 /CurlingVR/data/rawSensorValues s "   786"
+dd20bf25.c91ec918 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c92aa5c5 /CurlingVR/data/sensorValues d 34.238764
+dd20bf25.c94c985e /CurlingVR/data/rawSensorValues s "   774"
+dd20bf25.c977318e /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.c98b9345 /CurlingVR/data/sensorValues d 26.956136
+dd20bf25.c9b3bfb4 /CurlingVR/data/rawSensorValues s "   745"
+dd20bf25.c9cf9a05 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.e18bb4d3 /CurlingVR/data/sensorValues d 17.866358
+dd20bf25.e1a06a6d /CurlingVR/data/rawSensorValues s "   719"
+dd20bf25.e1a27285 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.e1d6e04b /CurlingVR/data/sensorValues d 8.858499
+dd20bf25.e1e33268 /CurlingVR/data/rawSensorValues s "   710"
+dd20bf25.e202b840 /CurlingVR/data/frequencyValue d 6.813094
+dd20bf25.e2174c4b /CurlingVR/data/sensorValues d 0.823639
+dd20bf25.e229845c /CurlingVR/data/rawSensorValues s "   710"
+dd20bf25.e24e26d3 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.e25a0380 /CurlingVR/data/sensorValues d -9.108246
+dd20bf25.e287a071 /CurlingVR/data/rawSensorValues s "   682"
+dd20bf25.e291105d /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.e2d8c2a3 /CurlingVR/data/sensorValues d -17.849446
+dd20bf25.e2e4d1a5 /CurlingVR/data/rawSensorValues s "   683"
+dd20bf25.e313be22 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.e3165d38 /CurlingVR/data/sensorValues d -25.818007
+dd20bf25.e32f87ac /CurlingVR/data/rawSensorValues s "   681"
+dd20bf25.e343e962 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.e37585bd /CurlingVR/data/sensorValues d -32.793176
+dd20bf25.e37995ed /CurlingVR/data/rawSensorValues s "   682"
+dd20bf25.e3acc4ee /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.e3b9389a /CurlingVR/data/sensorValues d -37.886258
+dd20bf25.e3e8ff31 /CurlingVR/data/rawSensorValues s "   693"
+dd20bf25.e3ea91d8 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fbbedb71 /CurlingVR/data/sensorValues d -42.485309
+dd20bf25.fbc0a06d /CurlingVR/data/rawSensorValues s "   692"
+dd20bf25.fbefbf3f /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fc066c29 /CurlingVR/data/sensorValues d -45.451577
+dd20bf25.fc1a9b8b /CurlingVR/data/rawSensorValues s "   703"
+dd20bf25.fc3fb373 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fc78d92e /CurlingVR/data/sensorValues d -47.752071
+dd20bf25.fc856e68 /CurlingVR/data/rawSensorValues s "   706"
+dd20bf25.fcad9ad7 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fcb9cb67 /CurlingVR/data/sensorValues d -49.754059
+dd20bf25.fcdb2701 /CurlingVR/data/rawSensorValues s "   706"
+dd20bf25.fce90bc6 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fd139430 /CurlingVR/data/sensorValues d -42.479076
+dd20bf25.fd3c03bb /CurlingVR/data/rawSensorValues s "   797"
+dd20bf25.fd58c8ed /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fd6bebe0 /CurlingVR/data/sensorValues d -30.212587
+dd20bf25.fd886df7 /CurlingVR/data/rawSensorValues s "   855"
+dd20bf25.fd9ed7c5 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf25.fdbb384e /CurlingVR/data/sensorValues d -18.460933
+dd20bf25.fdcfdd21 /CurlingVR/data/rawSensorValues s "   863"
+dd20bf25.fde57d9c /CurlingVR/data/frequencyValue d 5.774828
+dd20bf26.15f46ed2 /CurlingVR/data/sensorValues d -14.010748
+dd20bf26.15f633ce /CurlingVR/data/rawSensorValues s "   802"
+dd20bf26.161ec4e7 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf26.1636b096 /CurlingVR/data/sensorValues d -10.229623
+dd20bf26.164b87bd /CurlingVR/data/rawSensorValues s "   800"
+dd20bf26.16b59146 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf26.16b7fe08 /CurlingVR/data/sensorValues d -6.850410
+dd20bf26.16b9c304 /CurlingVR/data/rawSensorValues s "   800"
+dd20bf26.16bb6672 /CurlingVR/data/frequencyValue d 5.774828
+dd20bf26.16cd7cf5 /CurlingVR/data/sensorValues d 9.334318
+dd20bf26.16ed3522 /CurlingVR/data/rawSensorValues s "   933"
+dd20bf26.17064ece /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.1723bbc6 /CurlingVR/data/sensorValues d 23.844577
+dd20bf26.173bea91 /CurlingVR/data/rawSensorValues s "   934"
+dd20bf26.1759ccfa /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.177110e4 /CurlingVR/data/sensorValues d 36.749373
+dd20bf26.178dd616 /CurlingVR/data/rawSensorValues s "   934"
+dd20bf26.17b7e90f /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.17c9795b /CurlingVR/data/sensorValues d 48.210797
+dd20bf26.18183f91 /CurlingVR/data/rawSensorValues s "   934"
+dd20bf26.1835ac8a /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.184f2ae0 /CurlingVR/data/sensorValues d 58.374715
+dd20bf26.186a8fc0 /CurlingVR/data/rawSensorValues s "   934"
+dd20bf26.187fdc59 /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.302e770b /CurlingVR/data/sensorValues d 67.372391
+dd20bf26.302ff8eb /CurlingVR/data/rawSensorValues s "   934"
+dd20bf26.305c4651 /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.305dc832 /CurlingVR/data/sensorValues d 67.500948
+dd20bf26.30764adf /CurlingVR/data/rawSensorValues s "   855"
+dd20bf26.30c4ac6c /CurlingVR/data/sensorValues d 63.389992
+dd20bf26.30d7cf5f /CurlingVR/data/rawSensorValues s "   813"
+dd20bf26.30f733a8 /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.3104a2fc /CurlingVR/data/sensorValues d 57.485739
+dd20bf26.312f9010 /CurlingVR/data/rawSensorValues s "   791"
+dd20bf26.3130f062 /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.3167125d /CurlingVR/data/sensorValues d 50.187565
+dd20bf26.31794a6e /CurlingVR/data/rawSensorValues s "   771"
+dd20bf26.318b502a /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.31b445ed /CurlingVR/data/sensorValues d 38.288704
+dd20bf26.31b5c7cd /CurlingVR/data/rawSensorValues s "   717"
+dd20bf26.31db0142 /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.31ec918e /CurlingVR/data/sensorValues d 26.460530
+dd20bf26.3211cb03 /CurlingVR/data/rawSensorValues s "   705"
+dd20bf26.321f6cac /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.32427c7c /CurlingVR/data/sensorValues d 15.004166
+dd20bf26.324f227c /CurlingVR/data/rawSensorValues s "   696"
+dd20bf26.326f1dc4 /CurlingVR/data/frequencyValue d 4.676800
+dd20bf26.4a4b5568 /CurlingVR/data/sensorValues d 3.593542
+dd20bf26.4a4cd748 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf26.4a7b4e54 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.4a7cd034 /CurlingVR/data/sensorValues d -7.071917
+dd20bf26.4aa6c19f /CurlingVR/data/rawSensorValues s "   679"
+dd20bf26.4ab75642 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.4acc5fbf /CurlingVR/data/sensorValues d -16.765770
+dd20bf26.4af71a7d /CurlingVR/data/rawSensorValues s "   677"
+dd20bf26.4af87ad0 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.4b23dd54 /CurlingVR/data/sensorValues d -25.089227
+dd20bf26.4b256ffb /CurlingVR/data/rawSensorValues s "   680"
+dd20bf26.4b5104d5 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.4b5286b5 /CurlingVR/data/sensorValues d -32.480338
+dd20bf26.4b7b5ae9 /CurlingVR/data/rawSensorValues s "   680"
+dd20bf26.4ba493c8 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.4bcd898a /CurlingVR/data/sensorValues d -38.439337
+dd20bf26.4c0f2389 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf26.4c204f2a /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.4c46412c /CurlingVR/data/sensorValues d -42.324366
+dd20bf26.4c606748 /CurlingVR/data/rawSensorValues s "   700"
+dd20bf26.4c83558a /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.647991bb /CurlingVR/data/sensorValues d -44.258603
+dd20bf26.647b139c /CurlingVR/data/rawSensorValues s "   715"
+dd20bf26.64a4c1eb /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.64b2b777 /CurlingVR/data/sensorValues d -43.363749
+dd20bf26.64df266b /CurlingVR/data/rawSensorValues s "   741"
+dd20bf26.64ef240f /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.65182a98 /CurlingVR/data/sensorValues d -40.939071
+dd20bf26.6521ab4b /CurlingVR/data/rawSensorValues s "   757"
+dd20bf26.65463cfa /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.6553bd16 /CurlingVR/data/sensorValues d -38.836743
+dd20bf26.657a4616 /CurlingVR/data/rawSensorValues s "   756"
+dd20bf26.65856a37 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.659f3c70 /CurlingVR/data/sensorValues d -36.132732
+dd20bf26.65bdc69f /CurlingVR/data/rawSensorValues s "   764"
+dd20bf26.65d03104 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.65f9591c /CurlingVR/data/sensorValues d -21.510326
+dd20bf26.661b2a27 /CurlingVR/data/rawSensorValues s "   887"
+dd20bf26.6634b944 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.664a05dd /CurlingVR/data/sensorValues d -8.460252
+dd20bf26.66650613 /CurlingVR/data/rawSensorValues s "   887"
+dd20bf26.66822ff0 /CurlingVR/data/frequencyValue d 5.763718
+dd20bf26.66a9e6ee /CurlingVR/data/sensorValues d 4.363824
+dd20bf26.66c2df0c /CurlingVR/data/rawSensorValues s "   899"
+dd20bf26.66dc7ef1 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.7eacd9e7 /CurlingVR/data/sensorValues d 13.904713
+dd20bf26.7eae6c8e /CurlingVR/data/rawSensorValues s "   880"
+dd20bf26.7ed5cfaa /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.7ee62131 /CurlingVR/data/sensorValues d 20.411739
+dd20bf26.7f0be0de /CurlingVR/data/rawSensorValues s "   860"
+dd20bf26.7f19c5a3 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.7f2ca579 /CurlingVR/data/sensorValues d 26.189089
+dd20bf26.7f53b4b2 /CurlingVR/data/rawSensorValues s "   860"
+dd20bf26.7f628459 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.7f88b977 /CurlingVR/data/sensorValues d 26.360517
+dd20bf26.7f98d8a8 /CurlingVR/data/rawSensorValues s "   810"
+dd20bf26.7fdaf8de /CurlingVR/data/sensorValues d 24.209900
+dd20bf26.7fea5f84 /CurlingVR/data/rawSensorValues s "   787"
+dd20bf26.80080f98 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.8023c85b /CurlingVR/data/sensorValues d 19.893490
+dd20bf26.8037a3da /CurlingVR/data/rawSensorValues s "   763"
+dd20bf26.804e93e1 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.80703297 /CurlingVR/data/sensorValues d 12.463675
+dd20bf26.8071715b /CurlingVR/data/rawSensorValues s "   727"
+dd20bf26.809aed56 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.80b662fd /CurlingVR/data/sensorValues d 4.049247
+dd20bf26.98d94077 /CurlingVR/data/rawSensorValues s "   709"
+dd20bf26.9912ba16 /CurlingVR/data/frequencyValue d 5.373758
+dd20bf26.992a3054 /CurlingVR/data/sensorValues d -4.244058
+dd20bf26.993faf41 /CurlingVR/data/rawSensorValues s "   701"
+dd20bf26.9967fd3e /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.99740c40 /CurlingVR/data/sensorValues d -11.629149
+dd20bf26.99b4bb5d /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.99bb59dd /CurlingVR/data/sensorValues d -19.682636
+dd20bf26.99e731d2 /CurlingVR/data/rawSensorValues s "   686"
+dd20bf26.99e8d540 /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.9a35f808 /CurlingVR/data/sensorValues d -27.531610
+dd20bf26.9a413db7 /CurlingVR/data/rawSensorValues s "   679"
+dd20bf26.9a57a786 /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.9a8b6d86 /CurlingVR/data/sensorValues d -33.309514
+dd20bf26.9a97bfa4 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf26.9ac332ef /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.9acefed5 /CurlingVR/data/sensorValues d -38.424318
+dd20bf26.9ae642be /CurlingVR/data/rawSensorValues s "   691"
+dd20bf26.9b018611 /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.9b161a1d /CurlingVR/data/sensorValues d -42.151183
+dd20bf26.9b2fcac8 /CurlingVR/data/rawSensorValues s "   699"
+dd20bf26.9b572de3 /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b30e90bb /CurlingVR/data/sensorValues d -43.449669
+dd20bf26.b31055b7 /CurlingVR/data/rawSensorValues s "   719"
+dd20bf26.b336262c /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b342352e /CurlingVR/data/sensorValues d -42.880170
+dd20bf26.b35989de /CurlingVR/data/rawSensorValues s "   736"
+dd20bf26.b37cdcc9 /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b38a4c1e /CurlingVR/data/sensorValues d -40.151866
+dd20bf26.b3b16c1d /CurlingVR/data/rawSensorValues s "   758"
+dd20bf26.b3d61f5b /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b3e43675 /CurlingVR/data/sensorValues d -30.057796
+dd20bf26.b40cf9e2 /CurlingVR/data/rawSensorValues s "   835"
+dd20bf26.b418f81d /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b43382e3 /CurlingVR/data/sensorValues d -15.489922
+dd20bf26.b452c59e /CurlingVR/data/rawSensorValues s "   891"
+dd20bf26.b454152a /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b487db2a /CurlingVR/data/sensorValues d -9.028455
+dd20bf26.b4a7c5ab /CurlingVR/data/rawSensorValues s "   825"
+dd20bf26.b4cb5bb2 /CurlingVR/data/frequencyValue d 8.306276
+dd20bf26.b4e18265 /CurlingVR/data/sensorValues d -4.153261
+dd20bf26.b4fc1df2 /CurlingVR/data/rawSensorValues s "   816"
+dd20bf26.b515592c /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.b52b3cc3 /CurlingVR/data/sensorValues d 14.054691
+dd20bf26.b5549730 /CurlingVR/data/rawSensorValues s "   956"
+dd20bf26.b56c6151 /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.cd31ec0a /CurlingVR/data/sensorValues d 30.263921
+dd20bf26.cd3e5fb6 /CurlingVR/data/rawSensorValues s "   956"
+dd20bf26.cd667b5e /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.cd727999 /CurlingVR/data/sensorValues d 41.112082
+dd20bf26.cd9a9541 /CurlingVR/data/rawSensorValues s "   920"
+dd20bf26.cda682b5 /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.cdd53cdd /CurlingVR/data/sensorValues d 46.677681
+dd20bf26.cdd701d9 /CurlingVR/data/rawSensorValues s "   879"
+dd20bf26.ce031cea /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.ce0fe478 /CurlingVR/data/sensorValues d 49.114951
+dd20bf26.ce33bd9b /CurlingVR/data/rawSensorValues s "   854"
+dd20bf26.ce4840e0 /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.ce63b687 /CurlingVR/data/sensorValues d 46.782445
+dd20bf26.ce799a1f /CurlingVR/data/rawSensorValues s "   809"
+dd20bf26.ce8f190c /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.ceb0c889 /CurlingVR/data/sensorValues d 43.073399
+dd20bf26.cec80c72 /CurlingVR/data/rawSensorValues s "   793"
+dd20bf26.cee429df /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.cf041460 /CurlingVR/data/sensorValues d 39.725566
+dd20bf26.cf10a99a /CurlingVR/data/rawSensorValues s "   793"
+dd20bf26.cf36ac63 /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.cf44b2b6 /CurlingVR/data/sensorValues d 34.425920
+dd20bf26.cf6b8f9a /CurlingVR/data/rawSensorValues s "   770"
+dd20bf26.cf6d2241 /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.e7685984 /CurlingVR/data/sensorValues d 28.283511
+dd20bf26.e76a1e80 /CurlingVR/data/rawSensorValues s "   756"
+dd20bf26.e786d2ec /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.e797353a /CurlingVR/data/sensorValues d 22.782340
+dd20bf26.e7b94961 /CurlingVR/data/rawSensorValues s "   756"
+dd20bf26.e7c48f0f /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.e7e11126 /CurlingVR/data/sensorValues d 13.106015
+dd20bf26.e80c62e3 /CurlingVR/data/rawSensorValues s "   708"
+dd20bf26.e80de4c4 /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.e83f1c74 /CurlingVR/data/sensorValues d 4.471303
+dd20bf26.e840e170 /CurlingVR/data/rawSensorValues s "   708"
+dd20bf26.e867381c /CurlingVR/data/frequencyValue d 5.779539
+dd20bf26.e87fbaca /CurlingVR/data/sensorValues d -3.226696
+dd20bf26.e8957cd3 /CurlingVR/data/rawSensorValues s "   708"
+dd20bf26.e8c36da7 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf26.e8fd3b28 /CurlingVR/data/sensorValues d -12.260387
+dd20bf26.e8ff10eb /CurlingVR/data/rawSensorValues s "   686"
+dd20bf26.e92e2fbd /CurlingVR/data/frequencyValue d 5.359393
+dd20bf26.e9300580 /CurlingVR/data/sensorValues d -19.802145
+dd20bf26.e95e8d53 /CurlingVR/data/rawSensorValues s "   691"
+dd20bf26.e96c7218 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.01939218 /CurlingVR/data/sensorValues d -27.393050
+dd20bf27.0195464d /CurlingVR/data/rawSensorValues s "   682"
+dd20bf27.01bae46c /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.01d16fc9 /CurlingVR/data/sensorValues d -33.436152
+dd20bf27.01e5082c /CurlingVR/data/rawSensorValues s "   689"
+dd20bf27.020620ab /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.02149c6f /CurlingVR/data/sensorValues d -38.787121
+dd20bf27.023aafff /CurlingVR/data/rawSensorValues s "   689"
+dd20bf27.024a9cdc /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.025e4606 /CurlingVR/data/sensorValues d -44.011047
+dd20bf27.027ed84d /CurlingVR/data/rawSensorValues s "   684"
+dd20bf27.02928177 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.02e33eff /CurlingVR/data/sensorValues d -48.324553
+dd20bf27.02e503fb /CurlingVR/data/rawSensorValues s "   687"
+dd20bf27.03123c42 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.0313f077 /CurlingVR/data/sensorValues d -51.822563
+dd20bf27.0369b9d7 /CurlingVR/data/rawSensorValues s "   690"
+dd20bf27.036b4c7f /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.0399806f /CurlingVR/data/sensorValues d -54.986468
+dd20bf27.039b456b /CurlingVR/data/rawSensorValues s "   689"
+dd20bf27.03c43b2d /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.03d08d4b /CurlingVR/data/sensorValues d -57.552520
+dd20bf27.03f21b3a /CurlingVR/data/rawSensorValues s "   691"
+dd20bf27.03fe2a3c /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.1bb70ef5 /CurlingVR/data/sensorValues d -57.900320
+dd20bf27.1bc43b2d /CurlingVR/data/rawSensorValues s "   710"
+dd20bf27.1beda661 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.1bef2841 /CurlingVR/data/sensorValues d -56.667310
+dd20bf27.1c176577 /CurlingVR/data/rawSensorValues s "   725"
+dd20bf27.1c253975 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.1c4955b4 /CurlingVR/data/sensorValues d -50.166030
+dd20bf27.1c5c67df /CurlingVR/data/rawSensorValues s "   779"
+dd20bf27.1c812be4 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.1c8fb86f /CurlingVR/data/sensorValues d -40.264224
+dd20bf27.1ca2a90c /CurlingVR/data/rawSensorValues s "   820"
+dd20bf27.1ccdd93c /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.35f3b645 /CurlingVR/data/sensorValues d -31.698450
+dd20bf27.35f548ec /CurlingVR/data/rawSensorValues s "   817"
+dd20bf27.360d77b7 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.362ea0fd /CurlingVR/data/sensorValues d -26.608648
+dd20bf27.363f572d /CurlingVR/data/rawSensorValues s "   791"
+dd20bf27.366cd290 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.366e6538 /CurlingVR/data/sensorValues d -22.047025
+dd20bf27.369ae4f2 /CurlingVR/data/rawSensorValues s "   791"
+dd20bf27.36abde3f /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.36d4f590 /CurlingVR/data/sensorValues d -17.960572
+dd20bf27.36ddacee /CurlingVR/data/rawSensorValues s "   791"
+dd20bf27.3707e175 /CurlingVR/data/frequencyValue d 5.359393
+dd20bf27.372acfb7 /CurlingVR/data/sensorValues d -2.817582
+dd20bf27.375bf6a0 /CurlingVR/data/rawSensorValues s "   907"
+dd20bf27.375d56f2 /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.3786d2ed /CurlingVR/data/sensorValues d 9.192640
+dd20bf27.37980f55 /CurlingVR/data/rawSensorValues s "   892"
+dd20bf27.37c1ce6b /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.37c3504c /CurlingVR/data/sensorValues d 18.498555
+dd20bf27.37f0563e /CurlingVR/data/rawSensorValues s "   878"
+dd20bf27.37fd3f5b /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.38200c0e /CurlingVR/data/sensorValues d 25.583627
+dd20bf27.3826dce3 /CurlingVR/data/rawSensorValues s "   866"
+dd20bf27.38447c30 /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.38611fd5 /CurlingVR/data/sensorValues d 29.296842
+dd20bf27.387b139c /CurlingVR/data/rawSensorValues s "   840"
+dd20bf27.3899d020 /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.38b37004 /CurlingVR/data/sensorValues d 30.992020
+dd20bf27.38d0cc35 /CurlingVR/data/rawSensorValues s "   824"
+dd20bf27.38e8858f /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.38fecdd0 /CurlingVR/data/sensorValues d 29.303432
+dd20bf27.3915f02c /CurlingVR/data/rawSensorValues s "   792"
+dd20bf27.39306a2a /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.39409a23 /CurlingVR/data/sensorValues d 26.185596
+dd20bf27.50221426 /CurlingVR/data/rawSensorValues s "   776"
+dd20bf27.50237478 /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.504f5d35 /CurlingVR/data/sensorValues d 23.381419
+dd20bf27.5050df15 /CurlingVR/data/rawSensorValues s "   776"
+dd20bf27.5079b349 /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.5082adc4 /CurlingVR/data/sensorValues d 16.899515
+dd20bf27.50ae85b9 /CurlingVR/data/rawSensorValues s "   736"
+dd20bf27.50afe60b /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.50d972cd /CurlingVR/data/sensorValues d 8.731240
+dd20bf27.50e50c5e /CurlingVR/data/rawSensorValues s "   712"
+dd20bf27.5109070f /CurlingVR/data/frequencyValue d 3.945560
+dd20bf27.51101aff /CurlingVR/data/sensorValues d 0.157575
+dd20bf27.5134acaf /CurlingVR/data/rawSensorValues s "   699"
+dd20bf27.51360d01 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.51781c70 /CurlingVR/data/sensorValues d -8.966718
+dd20bf27.51799e51 /CurlingVR/data/rawSensorValues s "   684"
+dd20bf27.51b48908 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.51b60ae9 /CurlingVR/data/sensorValues d -17.384496
+dd20bf27.51f687b0 /CurlingVR/data/rawSensorValues s "   681"
+dd20bf27.51f7d73c /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.52238da3 /CurlingVR/data/sensorValues d -25.362352
+dd20bf27.5225204a /CurlingVR/data/rawSensorValues s "   676"
+dd20bf27.524f227c /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6a49d388 /CurlingVR/data/sensorValues d -32.643259
+dd20bf27.6a58a32e /CurlingVR/data/rawSensorValues s "   674"
+dd20bf27.6a7e9530 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6a854477 /CurlingVR/data/sensorValues d -39.196904
+dd20bf27.6aa22b38 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.6ac6ac20 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6acd2912 /CurlingVR/data/sensorValues d -45.195005
+dd20bf27.6aebc408 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.6b0a1be2 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6b112fd2 /CurlingVR/data/sensorValues d -50.692117
+dd20bf27.6b333332 /CurlingVR/data/rawSensorValues s "   669"
+dd20bf27.6b526527 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6b6eb4e9 /CurlingVR/data/sensorValues d -55.539353
+dd20bf27.6b80fdc0 /CurlingVR/data/rawSensorValues s "   669"
+dd20bf27.6b97fe8e /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6bb139c8 /CurlingVR/data/sensorValues d -59.802700
+dd20bf27.6bc4f3ba /CurlingVR/data/rawSensorValues s "   669"
+dd20bf27.6be18697 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6bfd2e93 /CurlingVR/data/sensorValues d -63.343540
+dd20bf27.6c0eae18 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.6c27418c /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.6c4651f3 /CurlingVR/data/sensorValues d -65.841085
+dd20bf27.6c606748 /CurlingVR/data/rawSensorValues s "   677"
+dd20bf27.6c771433 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.847a9e2b /CurlingVR/data/sensorValues d -68.396556
+dd20bf27.8483fd4f /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.84b2c83e /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.84b48d3a /CurlingVR/data/sensorValues d -70.803084
+dd20bf27.84d66f0c /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.84e3ef27 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.8509bf9b /CurlingVR/data/sensorValues d -72.678498
+dd20bf27.85188f42 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.8541c820 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.85439de3 /CurlingVR/data/sensorValues d -74.375813
+dd20bf27.856b441b /CurlingVR/data/rawSensorValues s "   672"
+dd20bf27.859a0f09 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.85a06a6d /CurlingVR/data/sensorValues d -75.714745
+dd20bf27.85db22d0 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.85ee2434 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.86113404 /CurlingVR/data/sensorValues d -76.733019
+dd20bf27.8620bc37 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf27.8642bf97 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.8657b84d /CurlingVR/data/sensorValues d -77.662568
+dd20bf27.86768597 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.86937d1f /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.86a55086 /CurlingVR/data/sensorValues d -78.512133
+dd20bf27.9eab3679 /CurlingVR/data/rawSensorValues s "   672"
+dd20bf27.9eacc920 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.9eda76d8 /CurlingVR/data/sensorValues d -78.893584
+dd20bf27.9ee83a0f /CurlingVR/data/rawSensorValues s "   675"
+dd20bf27.9ef9a8cd /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.9f1f03d0 /CurlingVR/data/sensorValues d -79.451562
+dd20bf27.9f25d4a5 /CurlingVR/data/rawSensorValues s "   672"
+dd20bf27.9f4fd6d7 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.9f518b0c /CurlingVR/data/sensorValues d -79.770270
+dd20bf27.9f80baa4 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.9f92e1ee /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.9faeee94 /CurlingVR/data/sensorValues d -79.974468
+dd20bf27.9fe1005f /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.9fe707e0 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.a017fc75 /CurlingVR/data/sensorValues d -79.977435
+dd20bf27.a0330d72 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf27.a04790b7 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.a061e928 /CurlingVR/data/sensorValues d -80.098100
+dd20bf27.a07a7c9d /CurlingVR/data/rawSensorValues s "   672"
+dd20bf27.a097a679 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.a0ae429d /CurlingVR/data/sensorValues d -80.026515
+dd20bf27.a0c868b9 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.a0ed2cbe /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.b8d173fa /CurlingVR/data/sensorValues d -79.882706
+dd20bf27.b9235f7f /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.b924e160 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.b95757d4 /CurlingVR/data/sensorValues d -79.674689
+dd20bf27.b95e071b /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.b9860135 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.b987d6f8 /CurlingVR/data/sensorValues d -79.409672
+dd20bf27.b9b994e0 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.b9bb2788 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.b9e71044 /CurlingVR/data/sensorValues d -79.094132
+dd20bf27.b9e8e607 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.ba1309c7 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.ba22d516 /CurlingVR/data/sensorValues d -78.832892
+dd20bf27.ba4c0df4 /CurlingVR/data/rawSensorValues s "   672"
+dd20bf27.ba580c2f /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.ba85a921 /CurlingVR/data/sensorValues d -78.620293
+dd20bf27.ba939ead /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.bac13b9e /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.bac5c13f /CurlingVR/data/sensorValues d -78.352248
+dd20bf27.baee631e /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.bafd976f /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.bb2bdc26 /CurlingVR/data/sensorValues d -78.035068
+dd20bf27.bb47735b /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.bb73d188 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d310dbef /CurlingVR/data/sensorValues d -77.674425
+dd20bf27.d312a0eb /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.d341bfbd /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d34fd6d7 /CurlingVR/data/sensorValues d -77.275418
+dd20bf27.d3793143 /CurlingVR/data/rawSensorValues s "   671"
+dd20bf27.d38769eb /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d3a89330 /CurlingVR/data/sensorValues d -76.644627
+dd20bf27.d3bc5de8 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.d3d0d066 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d3ec7862 /CurlingVR/data/sensorValues d -76.104947
+dd20bf27.d41d6cf7 /CurlingVR/data/rawSensorValues s "   672"
+dd20bf27.d42b8411 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d43cf2ce /CurlingVR/data/sensorValues d -75.448988
+dd20bf27.d46fef7b /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.d49949e7 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d4acf311 /CurlingVR/data/sensorValues d -74.789080
+dd20bf27.d4c5c9a2 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.d5119cdf /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d52f3c2c /CurlingVR/data/sensorValues d -74.126312
+dd20bf27.d5450efc /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.d563779d /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.d578d4fd /CurlingVR/data/sensorValues d -73.362660
+dd20bf27.eb053197 /CurlingVR/data/sensorValues d -68.105612
+dd20bf27.eb50e346 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf27.eb526526 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.efc83a95 /CurlingVR/data/sensorValues d -67.460379
+dd20bf27.efda72a6 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.f001d5c2 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.f1df761b /CurlingVR/data/sensorValues d -66.719016
+dd20bf27.f20c49b9 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf27.f21f8e39 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.f5179399 /CurlingVR/data/sensorValues d -66.090743
+dd20bf27.f546f586 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf27.f5842b72 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf27.f8ced4e3 /CurlingVR/data/sensorValues d -65.365861
+dd20bf27.f90a7828 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf27.f9119cdf /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.076e2eb1 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.076fc158 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.0797cc39 /CurlingVR/data/sensorValues d -64.143369
+dd20bf28.079fba45 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.07c9cd3e /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.07e0ce0b /CurlingVR/data/sensorValues d -63.535487
+dd20bf28.0805a2d7 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.080c62e4 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.219a62ed /CurlingVR/data/sensorValues d -63.029330
+dd20bf28.219be4cd /CurlingVR/data/rawSensorValues s "   672"
+dd20bf28.21cc100e /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.21da2728 /CurlingVR/data/sensorValues d -62.416314
+dd20bf28.2200f344 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.220e7360 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.223a4b55 /CurlingVR/data/sensorValues d -61.708700
+dd20bf28.225d5b24 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf28.225eaab0 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.22a21a71 /CurlingVR/data/sensorValues d -61.115508
+dd20bf28.22ad1d03 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.22cf41f1 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3bba8826 /CurlingVR/data/sensorValues d -60.525858
+dd20bf28.3bca1059 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3be49b1f /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3bf9b562 /CurlingVR/data/sensorValues d -59.939954
+dd20bf28.3c30b178 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3c4a72ea /CurlingVR/data/sensorValues d -59.357974
+dd20bf28.3c6088d6 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3c78e9f6 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3c92ab68 /CurlingVR/data/sensorValues d -58.780071
+dd20bf28.3caa64c2 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3cc33b53 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3ce0a84b /CurlingVR/data/sensorValues d -58.107380
+dd20bf28.3cf93bc0 /CurlingVR/data/rawSensorValues s "   674"
+dd20bf28.3d1361dc /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3d31550c /CurlingVR/data/sensorValues d -57.548905
+dd20bf28.3d47064e /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3d5a07b3 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3d7edc7e /CurlingVR/data/sensorValues d -56.993755
+dd20bf28.3d979181 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3dae4f33 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3dc725c3 /CurlingVR/data/sensorValues d -56.442122
+dd20bf28.3ddbdb5d /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3df9ce8d /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3e0e7360 /CurlingVR/data/sensorValues d -55.894175
+dd20bf28.3e22b388 /CurlingVR/data/rawSensorValues s "   673"
+dd20bf28.3e3c1051 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3e675147 /CurlingVR/data/sensorValues d -55.449060
+dd20bf28.3e8198f1 /CurlingVR/data/rawSensorValues s "   672"
+dd20bf28.3e9ae4f2 /CurlingVR/data/frequencyValue d 6.826311
+dd20bf28.3ecadddf /CurlingVR/data/sensorValues d -55.096014
+dd20bf28.3ee7924a /CurlingVR/data/rawSensorValues s "   671"
+dd20bf28.3efcefaa /CurlingVR/data/frequencyValue d 6.826311
